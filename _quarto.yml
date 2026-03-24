@@ -47,10 +47,7 @@ website:
           contents: 
             - public_output.qmd
             - public_in_progress.qmd
-        - section: "Reports"
-          contents: 
-            - public_briefs.qmd
-            - public_annual_reports.qmd
+        - public_reports.qmd
         - public_staff.qmd
         - public_grants.qmd
         - public_media.qmd

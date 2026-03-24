@@ -459,12 +459,6 @@ and respond during these attacks.
 :::
 
 ::: {.callout-note collapse="true"}
-## Uvalde Texas - After Actions
-
-[View the article here.](resources/articles/article_2022_uvalde_aar.pdf){target="_blank"}
-:::
-
-::: {.callout-note collapse="true"}
 ## What Are We Talking About? Definitional Confusion Within Active and Mass Shooting Research
 
 Active-shooting events have become a big topic for many, including

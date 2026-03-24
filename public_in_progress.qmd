@@ -7,6 +7,77 @@ format:
       theme: neutral
 ---
 
+```{r}
+#| include: false
+#| echo: false
+
+source("0_packages.R")
+
+make_mermaid_flow <- function(current_level = "B") {
+  
+  levels <- c("A", "B", "C", "D", "E")
+  
+  labels <- c(
+    A = "Formal analysis plan",
+    B = "Execute analysis",
+    C = "Draft manuscript",
+    D = "Submit to journal",
+    E = "Manuscript accepted"
+  )
+  
+  # Determine status
+  current_idx <- match(current_level, levels)
+  
+  status <- purrr::map_chr(seq_along(levels), \(i) {
+    if (i < current_idx) {
+      "done"
+    } else if (i == current_idx) {
+      "current"
+    } else {
+      NA_character_
+    }
+  })
+  
+  names(status) <- levels
+  
+  # Build nodes + edges
+  edges <- paste0(
+    levels[-length(levels)], "[/", labels[levels[-length(levels)]], "/] ~~~ ",
+    levels[-1], "[/", labels[levels[-1]], "/]"
+  )
+  
+  # Build class statements
+  class_lines <- purrr::imap_chr(status, \(s, lvl) {
+    if (is.na(s)) return(NA_character_)
+    paste0("class ", lvl, " ", s, ";")
+  }) |> stats::na.omit()
+  
+  # Combine everything
+  mermaid_code <- paste(
+    "```{mermaid}",
+    "flowchart LR",
+    paste(edges, collapse = "\n"),
+    "",
+    "classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;",
+    "classDef current fill:#fff3b0,stroke:#b58900,color:#000;",
+    "",
+    paste(class_lines, collapse = "\n"),
+    "```",
+    sep = "\n"
+  )
+  
+  return(mermaid_code)
+}
+
+```
+
+
+```{r results='asis'}
+#| echo: false
+cat(make_mermaid_flow(current_level = "C"))
+```
+
+
 ## Research Projects
 
 Below you will find brief descriptions of research projects that are in-progress. For each entry, you will find a title, synopsis, status, and links to any additional information available for that project. Please note, we only list projects that the Research Ring is leading or majorly contributing to. We do not track projects team members collaborate on with other groups.
@@ -23,47 +94,9 @@ This project will assess the burden of deaths of despair across major protective
 
 #### Status:
 
-```{mermaid}
-flowchart LR
-
-A[/Draft analysis plan/] ~~~ B[/Execute analysis/] 
-B[/Execute analysis/] ~~~ C[/Draft manuscript/]
-C[/Draft manuscript/] ~~~ G[/Submit to journal/]
-G[/Submit to journal/] ~~~ H[/Manuscript accepted/]
-
-classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;
-classDef current fill:#fff3b0,stroke:#b58900,color:#000;
-
-class A done;
-class B current;
-
-```
-
-
-------------------------------------------------------------------------
-
-### "Police Situation Reports: An Experimental Evaluation of Training Methods in Virtual Reality" 
-
-------------------------------------------------------------------------
-
-#### Synopsis:
-
-This project will experimentally evaluate different approaches for teaching police situation reports. At ALERRT, we use the LCAN method (Location, Conditions, Actions, and Needs) but there is currently very little experimental evidence for the effectiveness of this (or any other) method. Using a virtual reality situation as a stressor, we will evaluate how different methods of instruction impact participants' ability to deliver an effective situation report.
-
-#### Status:
-
-```{mermaid}
-flowchart LR
-
-A[/Draft analysis plan/] ~~~ B[/Execute analysis/] 
-B[/Execute analysis/] ~~~ C[/Draft manuscript/]
-C[/Draft manuscript/] ~~~ G[/Submit to journal/]
-G[/Submit to journal/] ~~~ H[/Manuscript accepted/]
-
-classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;
-classDef current fill:#fff3b0,stroke:#b58900,color:#000;
-
-class A current;
+```{r results='asis'}
+#| echo: false
+cat(make_mermaid_flow(current_level = "B"))
 ```
 
 ------------------------------------------------------------------------
@@ -78,20 +111,9 @@ This randomized controlled trial examined the effects of two brief slow-breathin
 
 #### Status:
 
-```{mermaid}
-flowchart LR
-
-A[/Draft analysis plan/] ~~~ B[/Execute analysis/] 
-B[/Execute analysis/] ~~~ C[/Draft manuscript/]
-C[/Draft manuscript/] ~~~ G[/Submit to journal/]
-G[/Submit to journal/] ~~~ H[/Manuscript accepted/]
-
-classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;
-classDef current fill:#fff3b0,stroke:#b58900,color:#000;
-
-class A,B,C,D,E,F,G done;
-class H current;
-
+```{r results='asis'}
+#| echo: false
+cat(make_mermaid_flow(current_level = "E"))
 ```
 
 ------------------------------------------------------------------------
@@ -106,20 +128,9 @@ This project will examine longitudinal trends in active shooter incident resolut
 
 #### Status:
 
-```{mermaid}
-flowchart LR
-
-A[/Draft analysis plan/] ~~~ B[/Execute analysis/] 
-B[/Execute analysis/] ~~~ C[/Draft manuscript/]
-C[/Draft manuscript/] ~~~ G[/Submit to journal/]
-G[/Submit to journal/] ~~~ H[/Manuscript accepted/]
-
-classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;
-classDef current fill:#fff3b0,stroke:#b58900,color:#000;
-
-class A,B done;
-class C current;
-
+```{r results='asis'}
+#| echo: false
+cat(make_mermaid_flow(current_level = "C"))
 ```
 
 ------------------------------------------------------------------------
@@ -134,18 +145,62 @@ This project will examine the effects of repeated exposure to stressful virtual 
 
 #### Status:
 
-```{mermaid}
-flowchart LR
-
-A[/Draft analysis plan/] ~~~ B[/Execute analysis/] 
-B[/Execute analysis/] ~~~ C[/Draft manuscript/]
-C[/Draft manuscript/] ~~~ G[/Submit to journal/]
-G[/Submit to journal/] ~~~ H[/Manuscript accepted/]
-
-classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;
-classDef current fill:#fff3b0,stroke:#b58900,color:#000;
-
-class A done;
-class B current;
-
+```{r results='asis'}
+#| echo: false
+cat(make_mermaid_flow(current_level = "B"))
 ```
+
+------------------------------------------------------------------------
+
+### "Legal gun ownership and homicides in Brazil" 
+
+------------------------------------------------------------------------
+
+#### Synopsis:
+
+This study uses Bayesian multilevel models to analyze the association between 
+legal gun ownership and homicide rates in Brazil. It used official data on 
+firearm possession and licenses to carry rather than proxy measures. The 
+results suggest that legal gun ownership is unlikely to be a significant driver 
+of homicide rates. Preprint available on [CrimRxiv](https://doi.org/10.21428/cb6ab371.b1300c2c){target="_blank"}. 
+
+#### Status:
+
+```{r results='asis'}
+#| echo: false
+cat(make_mermaid_flow(current_level = "D"))
+```
+
+------------------------------------------------------------------------
+
+### "Calibration & validation of a police UoF assessment instrument" 
+
+------------------------------------------------------------------------
+
+#### Synopsis:
+This project draws on data from the final evaluations of a defensive tactics class involving over 2,000 Brazilian police recruits. The evaluation used a standard reality-based simulation of a domestic call and an instrument designed to assess police performance in use-of-force incidents. This study now explores, validates, and calibrates that instrument.
+
+#### Status:
+
+```{r results='asis'}
+#| echo: false
+cat(make_mermaid_flow(current_level = "B"))
+```
+
+------------------------------------------------------------------------
+
+### "What officers should be trained for? (Brazil)" 
+
+------------------------------------------------------------------------
+
+#### Synopsis:
+
+This project is a collaboration between U.S.-based scholars and Brazilian pracademics. It uses a mixed-methods approach, combining a national-level survey with over 20,000 responses, data from police reports from a Brazilian police department, and a focus group. Together, these sources are used to identify the use-of-force situations most commonly experienced by officers, the contextual factors that increase risk in those incidents, and other critical situations—all with the goal of informing police use-of-force training. Results will be compared with an ongoing parallel study being conducted with U.S. law enforcement.
+
+#### Status:
+
+```{r results='asis'}
+#| echo: false
+cat(make_mermaid_flow(current_level = "C"))
+```
+

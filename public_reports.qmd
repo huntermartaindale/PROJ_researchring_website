@@ -1,0 +1,27 @@
+---
+title: "Reports"
+---
+
+Below are listed the public reports produced by the ALERRT Center. 
+
+## After Action Reports
+
+### Robb Elementry School, Uvalde, Texas (2022)
+
+:::::: columns
+::: {.column width="60%"}
+Following the 2022 attack at Robb Elementary School in Uvalde, Texas, the ALERRT produced an after action report. The report documented all key details of the attack and law enforcement response. It also provided recommendations for preventing such attacks and/or responding more effectively to attacks in the future.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+[![Click image to view report](resources/reports/report_2022_uvalde_aar.png)](resources/reports/report_2022_uvalde_aar.pdf){target="_blank"}
+:::
+::::::
+
+
+## Evaluations
+## Annual research reports
+## Annual ALERRT reports
