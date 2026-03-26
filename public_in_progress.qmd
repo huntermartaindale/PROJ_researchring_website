@@ -71,16 +71,7 @@ make_mermaid_flow <- function(current_level = "B") {
 
 ```
 
-
-```{r results='asis'}
-#| echo: false
-cat(make_mermaid_flow(current_level = "C"))
-```
-
-
-## Research Projects
-
-Below you will find brief descriptions of research projects that are in-progress. For each entry, you will find a title, synopsis, status, and links to any additional information available for that project. Please note, we only list projects that the Research Ring is leading or majorly contributing to. We do not track projects team members collaborate on with other groups.
+Below you will find brief descriptions of research projects that are in progress. For each entry, you will find a title, synopsis, status, and links to any additional information available for that project. Please note, we only list projects that the Research Ring is leading or majorly contributing to. We do not track projects team members collaborate on with other groups.
 
 ------------------------------------------------------------------------
 
