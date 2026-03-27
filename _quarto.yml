@@ -33,6 +33,7 @@ website:
         - section: "Templates"
         - section: "Texas State"
           contents: 
+            - txst_travel.qmd
             - txst_links.qmd
         - lexical_stowaways.qmd
             

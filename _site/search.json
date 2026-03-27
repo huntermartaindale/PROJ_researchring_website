@@ -785,49 +785,49 @@
   {
     "objectID": "txst_links.html",
     "href": "txst_links.html",
-    "title": "Texas State Links",
+    "title": "Helpful Links",
     "section": "",
     "text": "Here is where we list several helpful links for Texas State University resources.",
     "crumbs": [
       "Ring Resources",
       "Texas State",
-      "Texas State Links"
+      "Helpful Links"
     ]
   },
   {
     "objectID": "txst_links.html#employer-information",
     "href": "txst_links.html#employer-information",
-    "title": "Texas State Links",
+    "title": "Helpful Links",
     "section": "Employer information",
     "text": "Employer information\n\nInstitutional financial fact sheet (Division of Research)\n\nEIN number\nTax exempt status\n\n\n Download fact sheet \n\n\n\nTax exempt status (IRS letters)\n\n Download IRS Letters",
     "crumbs": [
       "Ring Resources",
       "Texas State",
-      "Texas State Links"
+      "Helpful Links"
     ]
   },
   {
     "objectID": "txst_links.html#employee-information",
     "href": "txst_links.html#employee-information",
-    "title": "Texas State Links",
+    "title": "Helpful Links",
     "section": "Employee information",
     "text": "Employee information\n\nSAP portal\n\nTime sheets\nSuccess Factors (in-service training)\nW2\n\n\n\nTravel Requests\n\n\nConcur\n\n\nParking Services\n\nPurchase parking permits\nPay parking tickets",
     "crumbs": [
       "Ring Resources",
       "Texas State",
-      "Texas State Links"
+      "Helpful Links"
     ]
   },
   {
     "objectID": "txst_links.html#research",
     "href": "txst_links.html#research",
-    "title": "Texas State Links",
+    "title": "Helpful Links",
     "section": "Research",
     "text": "Research\n\nKUALI\n\n\nData Management",
     "crumbs": [
       "Ring Resources",
       "Texas State",
-      "Texas State Links"
+      "Helpful Links"
     ]
   },
   {
@@ -974,6 +974,54 @@
     "crumbs": [
       "Home",
       "Reports"
+    ]
+  },
+  {
+    "objectID": "txst_travel.html",
+    "href": "txst_travel.html",
+    "title": "Travel",
+    "section": "",
+    "text": "Wanna get away?\nLet’s walk through the process of traveling on the university’s dime.\nflowchart LR\n    A[Travel Request] --&gt; B{Booking Method}\n    B --&gt; C[Book through Concur]\n    B --&gt; D[Book personally]\n    C --&gt; E[Submit Expense Reports]\n    D --&gt; E\nLet’s break it down.",
+    "crumbs": [
+      "Ring Resources",
+      "Texas State",
+      "Travel"
+    ]
+  },
+  {
+    "objectID": "txst_travel.html#travel-requests",
+    "href": "txst_travel.html#travel-requests",
+    "title": "Travel",
+    "section": "Travel requests",
+    "text": "Travel requests\nBefore booking anything, you will need to fill out and submit a travel request through the university’s Concur Travel system. Click the link to get a copy of the travel request.\n\n Download travel request form \n\nOn the request form you will need to provide the following information:\n\nTraveler information (e.g., name, email, DOB, Net ID)\nTravel details (e.g., first/last day of travel, destination, reason for travel)\nEstimates of cost & hotel information\n\nIt is often the case that you do not know the exact cost of travel until after the trip. Estimating these costs for the request form is just fine.\n\n\n\n\n\n\nWarning\n\n\n\nOnce you have submitted and had your travel request approved, you should book your travel right away. If you wait to book your travel, prices will increase and the university does not appreciate large discrepancies between the estimated and final travel costs.\n\n\nHaving filled out the travel request form with all of the relevant information, submit it to Lauren Dundee-Sergeant for processing.",
+    "crumbs": [
+      "Ring Resources",
+      "Texas State",
+      "Travel"
+    ]
+  },
+  {
+    "objectID": "txst_travel.html#booking",
+    "href": "txst_travel.html#booking",
+    "title": "Travel",
+    "section": "Booking",
+    "text": "Booking\n\nOption 1 - Booking travel through Concur\n\n\nOption 2 - Booking travel personally",
+    "crumbs": [
+      "Ring Resources",
+      "Texas State",
+      "Travel"
+    ]
+  },
+  {
+    "objectID": "txst_travel.html#submit-expense-report",
+    "href": "txst_travel.html#submit-expense-report",
+    "title": "Travel",
+    "section": "Submit expense report",
+    "text": "Submit expense report",
+    "crumbs": [
+      "Ring Resources",
+      "Texas State",
+      "Travel"
     ]
   }
 ]

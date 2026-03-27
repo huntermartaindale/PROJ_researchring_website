@@ -1,0 +1,49 @@
+---
+title: "Travel"
+---
+
+Wanna get away?
+
+Let's walk through the process of traveling on the university's dime.
+
+```{mermaid}
+flowchart LR
+    A[Travel Request] --> B{Booking Method}
+    B --> C[Book through Concur]
+    B --> D[Book personally]
+    C --> E[Submit Expense Reports]
+    D --> E
+```
+
+Let's break it down.
+
+## Travel requests
+
+Before booking anything, you will need to fill out and submit a travel request through the university's Concur Travel system. Click the link to get a copy of the travel request.
+
+::: {style="text-align: center;"}
+{{< downloadthis resources/alerrt_travel_request.pdf dname="alerrt_travel_request" label="Download travel request form" type="primary">}}
+:::
+
+On the request form you will need to provide the following information:
+
+-   Traveler information (e.g., name, email, DOB, Net ID)
+-   Travel details (e.g., first/last day of travel, destination, reason for travel)
+-   Estimates of cost & hotel information
+
+It is often the case that you do not know the exact cost of travel until after the trip. Estimating these costs for the request form is just fine.
+
+::: callout-warning
+Once you have submitted and had your travel request approved, **you should book your travel right away**. If you wait to book your travel, prices will increase and the university does not appreciate large discrepancies between the estimated and final travel costs.
+:::
+
+Having filled out the travel request form with all of the relevant information, submit it to [Lauren Dundee-Sergeant](mailto:led54@txstate.edu) for processing.
+
+## Booking
+
+### Option 1 - Booking travel through Concur
+### Option 2 - Booking travel personally
+
+## Submit expense report
+
+
