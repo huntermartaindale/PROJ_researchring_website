@@ -1,0 +1,97 @@
+---
+title: "Operator XR Virtual Reality"
+format: html
+toc: true
+---
+
+# Hardware
+
+-   Headset: VIVE Focus 3
+
+-   Wrist Tracker: VIVE Wrist Tracker
+
+-   Wands:\
+    Controller for VIVE XR/Focus Series (L)\
+    Controller for VIVE XR/Focus Series (R)
+
+# Setup
+
+## Pre-setup
+
+-   Ensure all equipment is charged.
+-   Ensure you have extra CO2 canisters.
+-   Turn on router, headsets, instructor tablet, and laptop.
+-   MAKE SURE they are all on the same WiFi signal from the router.
+-   Always have some various colors of masking tape on hand if the room seems very bland, has few recognizable patterns, reflective floors, furniture, wall decor, etc.
+
+## Map the play space
+
+::: callout-tip
+If you are setting up a **NEW** play area start here, otherwise, turn everything on and play!
+:::
+
+### Step 1: Use the laptop to clear the current tracking map from the headset
+
+1.  Open VBC on the laptop and connect the headset.
+
+2.  Select "Device Settings" and wait for the "Clear Tracking Map" button to be visible. Press it and wait for a success message.
+
+::: callout-tip
+It is helpful to have the laptop and headset with you while in the center of the play space **BEFORE** accepting the success message. It will immediately begin booting up the headset.
+:::
+
+3.  Accept the success message and disconnect the headset. Allow the headset to boot and place you in the lobby. You can remove the headset.
+
+### Step 2: Map the area
+
+1.  "Paint" the room. Slowly walking through your space, let the front of the headset "see" where you are, what's on the ground, what's on the walls.
+
+### Step 3: Set the floor height
+
+1.  Put the headset on, navigate to Settings \> Boundary \> Reset Floor Level \> Reset. Follow the steps shown.
+
+### Step 4: Save, export, and import the new map
+
+1.  Power off the headset. Wait a few seconds. Power the headset back on. Plug it back into the laptop.
+2.  In the laptop VBC program go to device settings and wait for the export button to appear, then select it.
+3.  Rename the new map to something applicable.
+4.  For single-person scenarios, with only one headset being used, you can just jump into scenarios. There is no need to push the map to the headset not being used.
+5.  Now, you can either import the new map to a device group that has been created. Or, you can import the map into the headsets directly.
+    -   For groups: navigate to the group tab, double click your group, and assign your new map with the browse button under map version. Now, make sure your map version numbers all match.
+    -   For direct upload: navigate to the enroll tab, select your map under import map, and import.
+
+## Turn on devices
+
+### Wrist Trackers
+
+::: callout-tip
+Most of the time I have only needed one wrist tracker for what we were doing, you can change what the dominant hand is in the OPXR app.
+:::
+
+Press the L/R button on top of the tracker. If your wrist trackers were paired last time you used the set, they will remain paired.
+
+### Equipment
+
+::: callout-tip
+Most of the time I only ever used the pistol, so that was the only item I would need to turn on. In this case, just go to the settings in the OPXR app and turn Launch Requirements \> Weapons \> OFF.
+:::
+
+Turn on the equipment you will be using.
+
+## OPXR App 
+
+In the app settings you will be able to
+
+# FAQ
+
+support.operatorxr login
+
+Exporting videos of scenes
+
+changing from wrist trackers to wands
+
+{{< video https://www.youtube.com/watch?v=3B0MH_pmufs >}}
+
+I don't see the lobby bar while in OPXR app headset
+
+Settings on the laptop arent populating while headset is connected
