@@ -174,7 +174,7 @@ Turn it all off, then on again. If the issue persists, before joining the OPXR w
 ::: {.callout-note collapse="true" icon="false"}
 ## Settings on the laptop aren't populating while headset is connected
 
-Make sure you have "USB" selected in device settings.
+Make sure you have "USB" selected in device settings for the method of connection.
 :::
 
 ::: {.callout-note collapse="true" icon="false"}

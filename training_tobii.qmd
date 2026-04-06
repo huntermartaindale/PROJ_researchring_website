@@ -7,6 +7,7 @@ toc: true
 # Hardware
 
 -   Tobii Pro Glasses 3
+
 -   Recording pack
 
 # Software
@@ -55,8 +56,19 @@ This is what I do first, so that the signal can start broadcasting.
 
 1.  Take the SD card out of the recording unit and insert it into a computer.
 2.  For just the raw footage without gaze overlay, navigate into the SD card and copy / paste the videos needed.
-3.  For gaze analysis and overlay, open the Tobii Pro Labs desktop app. Begin a new project, and select the folder itself to import your videos.
-4.  Through Tobii Pro Lab ...............................
+3.  For gaze analysis and overlay, open the Tobii Pro Labs desktop app. Begin a new project, and select the SD card itself to import your videos.
+
+::: {.callout-note collapse="true" icon="false"}
+## Import tutorial video
+
+{{< video https://youtu.be/uuR9jNzyzDQ >}}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Export gaze overlay tutorial video
+
+{{< video https://youtu.be/5OCr-kMIMWI >}}
+:::
 
 # Tobii Pro Labs
 
@@ -75,7 +87,7 @@ You can make an account or use mine, just ask. [Support HERE](https://connect.to
 ::: {.callout-note collapse="true" icon="false"}
 ## Hardware / Software updates
 
-To update the glasses, go through setup and connect them to the tablet, select the settings cog in the top right of the controller app. You will see
+To update the glasses, go through setup and connect them to the tablet, select the settings cog in the top right of the controller app. You will see a dropdown menu to view the firmware and update if there is a new version.
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
@@ -87,5 +99,5 @@ Restart setup. Turn everything off and on.
 ::: {.callout-note collapse="true" icon="false"}
 ## My glasses won't calibrate
 
-Try different lighting, or areas of the room. Make sure the participant doesn't have lots of dramatic eye makeup, piercings, or large fake eyelashes.
+Try different lighting, or areas of the room. Make sure the participant doesn't have lots of dramatic eye makeup, piercings, or large fake eyelashes. There was only one instance where the glasses actually malfunctioned due to one of the cameras not working properly. After restarting setup and attempting calibrationa couple times, if issues still persist contact Tobii support.
 :::

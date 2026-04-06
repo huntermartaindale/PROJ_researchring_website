@@ -1101,7 +1101,7 @@
     "href": "training_tobii.html",
     "title": "Tobii Vision Tracking Glasses",
     "section": "",
-    "text": "Tobii Pro Glasses 3",
+    "text": "Tobii Pro Glasses 3\nRecording pack",
     "crumbs": [
       "Ring Resources",
       "Training Materials",
@@ -1149,7 +1149,31 @@
     "href": "training_tobii.html#get-the-tablet",
     "title": "Tobii Vision Tracking Glasses",
     "section": "Get the tablet",
-    "text": "Get the tablet\n\nLog into tablet.\nLaunch Glasses 3 Controller app.\nIt should auto connect to the glasses name. If it doesn’t, you can find the signal from the glasses in the same menu as Wi-Fi connections.",
+    "text": "Get the tablet\n\nLog into tablet.\nLaunch Glasses 3 Controller app.\nIt should auto connect to the glasses name (RU_#). If it doesn’t, you can find the signal from the glasses in the same menu as Wi-Fi connections. It could also broadcast the ID # of the recording unit.",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#begin-recording",
+    "href": "training_tobii.html#begin-recording",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Begin recording",
+    "text": "Begin recording\n\nEnter participant name.\nCalibrate glasses with the target card.\nBegin recording.",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#import-export-video",
+    "href": "training_tobii.html#import-export-video",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Import / Export video",
+    "text": "Import / Export video\n\nTake the SD card out of the recording unit and insert it into a computer.\nFor just the raw footage without gaze overlay, navigate into the SD card and copy / paste the videos needed.\nFor gaze analysis and overlay, open the Tobii Pro Labs desktop app. Begin a new project, and select the SD card itself to import your videos.\n\n\n\n\n\n\n\nNoteImport tutorial video\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteExport gaze overlay tutorial video",
     "crumbs": [
       "Ring Resources",
       "Training Materials",
