@@ -76,6 +76,10 @@ There is a lot to unpack here. The best way to understand this app is through To
 
 [Tobii Academy](https://connect.tobii.com/s/tobii-academy?language=en_US)
 
+For the most basic use, all of the data you would be interested in exporting can be found in the "Metrics" tab, as well as the "Data Export" tab. Here, you can scroll through what data is available, select the information you would like, and export it as an excel file.
+
+For example, in the cognitive load pilot study, each participant recording was time stamped at various stages in the pilot. These markers are available to be exported and analyzed. 
+
 # FAQ
 
 ::: {.callout-note collapse="true" icon="false"}
