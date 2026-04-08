@@ -1,0 +1,186 @@
+---
+title: "Operator XR Virtual Reality"
+format: html
+toc: true
+---
+
+# Hardware
+
+-   Headset: VIVE Focus 3
+
+-   Wrist Tracker: VIVE Wrist Tracker
+
+-   Wands:\
+    Controller for VIVE XR/Focus Series (L)\
+    Controller for VIVE XR/Focus Series (R)
+
+# Software
+
+The tablet will always ask you to update when powering on, there is no need to.
+
+Any updates available will be handled by OPXR.
+
+# Setup & Start
+
+## Pre-setup
+
+-   Ensure all equipment is charged.
+-   Ensure you have extra CO2 canisters.
+-   Turn on router, headsets, instructor tablet, and laptop.
+-   MAKE SURE they are all on the same WiFi signal from the router.
+-   Always have some various colors of masking tape on hand if the room seems very bland, has few recognizable patterns, reflective floors, furniture, wall decor, etc.
+
+## Map the play space
+
+::: callout-tip
+If you are setting up a **NEW** play area start here, otherwise, turn everything on and play!
+:::
+
+### Step 1: Use the laptop to clear the current tracking map from the headset
+
+1.  Open VBC on the laptop and connect the headset.
+
+2.  Select "Device Settings" and wait for the "Clear Tracking Map" button to be visible. Press it and wait for a success message.
+
+::: callout-tip
+It is helpful to have the laptop and headset with you while in the center of the play space **BEFORE** accepting the success message. It will immediately begin booting up the headset.
+:::
+
+3.  Accept the success message and disconnect the headset. Allow the headset to boot and place you in the lobby. You can remove the headset.
+
+### Step 2: Map the area
+
+1.  Remove the headset and "paint" the room. Slowly walking through your space, let the front of the headset "see" where you are, what's on the ground, what's on the walls.
+
+### Step 3: Set the floor height
+
+1.  Put the headset on, navigate to Settings \> Boundary \> Reset Floor Level \> Reset. Follow the steps shown.
+
+### Step 4: Save, export, and import the new map
+
+1.  Power off the headset. Wait a few seconds. Power the headset back on. Plug it back into the laptop.
+2.  In the laptop VBC program go to device settings and wait for the export button to appear, then select it.
+3.  Rename the new map to something applicable.
+4.  For single-person scenarios, with only one headset being used, you can just jump into scenarios. There is no need to push the map to the headset not being used.
+5.  Now, you can either import the new map to a device group that has been created. Or, you can import the map into the headsets directly.
+    -   For groups: navigate to the group tab, double click your group, and assign your new map with the browse button under map version. Now, make sure your map version numbers all match.
+    -   For direct upload: navigate to the enroll tab, select your map under import map, and import.
+
+## Turn on devices
+
+### Wrist Trackers
+
+::: callout-tip
+Most of the time I have only needed one wrist tracker for what we were doing, you can change what the dominant hand is in the OPXR app.
+:::
+
+Press the L/R button on top of the tracker. If your wrist trackers were paired last time you used the set, they will remain paired. These also sleep and turn off on their own.
+
+### Equipment
+
+::: callout-tip
+Most of the time I only ever used the pistol, so that was the only item I would need to turn on. In this case, just go to the settings in the OPXR app and turn Launch Requirements \> Weapons \> OFF.
+:::
+
+Turn on the equipment you will be using. Between use, I turn these items off to save battery.
+
+## OPXR App
+
+In the app settings you will be able to adjust plenty of things. The most important and frequently used are:
+
+1.  The physical space: I usually leave this alone set at a large number and artificially measure and adjust the space through the "space offset". The space offset will allow you to shift and rotate your virtual environment to fit your needs.
+
+2.  Launch requirements: This is the setting I mentioned earlier in the tip box. Here, I usually kept the start area requirement enabled, but disabled the weapons. This is because I wasn't using ALL of the equipment available or currently paired to the headset, which, without turning on each item, would block launching scenarios.
+
+::: callout-tip
+There is also a menu for setting up player and NPC health points which proved to be useful. I typically would give players infinite HP so that the scene could continue until I wanted it to end, instead of the player "dying".
+:::
+
+### Getting into the headset
+
+Use your hands as controllers and make an "o.k." (👌) hand gesture to select the OP-2 app in the VIVE library. The pinch motion with your pointer and thumb is what makes the selection. You should see a black zone with the tablet name (ALERRT) in a white box. Move the cursor with your gaze into the box, and fill it to select the session.
+
+### Player setup
+
+When a headset joins your session you will see their user pop up in the tablet. They will have a menu available to adjust their player model, equipment, dominant hand, etc. Now, place a wrist tracker onto their dominant hand. I would usually just use one tracker, and adjust hand dominance in the user settings after they joined a session.
+
+1.  Calibrate the pistol to the wrist tracker by using one of the user drop down menus to enable pass-through mode.
+2.  Instruct them to just aim at the wall, keeping the pistol sights aligned and level.
+3.  In another drop down menu, IF the wrist tracker and gun are on and working with a proper grip, you will be able to select the calibrate button.
+4.  Done. Now turn off pass-through.
+
+### Starting a scenario
+
+Now, just select a scenario. They are all customizable as well.
+
+1.  Instruct the participant to look around for a colored start area. The scenario description will show you the color and type of start area. They must stand in this box.
+2.  You have two options: if working with police who have holsters, or people with pockets, tell them to either holster the gun or pocket it. OR, hold onto the pistol for them until the scene starts. After the scene begins, hand them the gun.
+
+::: callout-important
+If you hold the gun while the scene loads, it will not populate in your hand correctly when the scene begins. If there is an issue immediately after loading with the gun not appearing, just instruct them to re-grip the gun.
+:::
+
+3.  Launch the scene.
+
+### Controlling the scenario
+
+You can control NPC actions through a radial menu by selecting characters, this also works for players as well.
+
+When ending the scenario, you will be asked to save the after-action review or not.
+
+# Creating a scenario
+
+The best way to do this is to just play around with it. Look at the characters and props available. Select the items and characters you place, see what menus pop up. Here are some videos available. When finishing a custom scene, make sure you place the scenario cameras in places around the scene you think would be helpful. Most of the time I didn't really need this feature, but you have to place your cameras to save and complete creating a scene. Just hold down anywhere on your map, go to the camera tab, and tap each red camera. When they turn blue, they have been "placed".
+
+{{< video https://www.youtube.com/watch?v=_RoQI-_gBdQ >}}
+
+{{< video https://www.youtube.com/watch?v=zdoGhplpDCM >}}
+
+# FAQ
+
+Most issues were usually solved by just turning the headset, laptop, and equipment off, and launching OPXR again.
+
+::: {.callout-note collapse="true" icon="false"}
+## Support.operatorxr.com login
+
+Go to [support.operatorxr.com](support.operatorxr.com), you can either make an account, or use mine just ask. This page will have every resource you need to understand and operate the system.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Exporting videos of scenes
+
+The only way to do this so far is by screen recording through the tablet.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Changing from wrist trackers to wands
+
+{{< video https://www.youtube.com/watch?v=3B0MH_pmufs >}}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## I don't see the lobby bar while in OPXR app headset
+
+Make sure everything is on the same WiFi signal! Sometimes the WiFi swaps automatically.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Issues with pistol / equipment not connecting
+
+Turn it all off, then on again. If the issue persists, before joining the OPXR warehouse lobby by looking into the session name, turn around and look into the cog wheel to access the equipment. Make sure your equipment is connected or here you can reconnect.\
+{{< video https://www.youtube.com/watch?v=OYlZzWkWnPI >}}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Settings on the laptop aren't populating while headset is connected
+
+Make sure you have "USB" selected in device settings for the method of connection.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## I want to use the rifle
+
+This video will teach you how to set up users with different equipment systems.
+
+{{< video https://www.youtube.com/watch?v=aIdKWdHzsk0 >}}
+:::

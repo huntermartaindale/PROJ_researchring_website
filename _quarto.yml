@@ -35,6 +35,10 @@ website:
           contents: 
             - txst_travel.qmd
             - txst_links.qmd
+        - section: "Training Materials"
+          contents: 
+            - training_opxr.qmd
+            - training_tobii.qmd
         - lexical_stowaways.qmd
             
         

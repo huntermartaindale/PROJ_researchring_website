@@ -1,0 +1,107 @@
+---
+title: "Tobii Vision Tracking Glasses"
+format: html
+toc: true
+---
+
+# Hardware
+
+-   Tobii Pro Glasses 3
+
+-   Recording pack
+
+# Software
+
+-   Tobii Pro Lab (only one key active at one time)
+
+-   Glasses 3 controller application
+
+# Setup & Start
+
+## Pre-setup
+
+-   Make sure you have charged the batteries.
+
+-   Make sure you have empty SD cards available for a new project.
+
+## Video
+
+::: {.callout-note collapse="true" icon="false"}
+## Tobii Quick Start Video
+
+{{< video https://youtu.be/Ow14bAgdvwA >}}
+:::
+
+## Powering the glasses on
+
+This is what I do first, so that the signal can start broadcasting.
+
+1.  Insert a battery into the recording unit.
+2.  Hold a finger over the power button until it lights up green.
+3.  Plug in glasses
+
+## Get the tablet
+
+1.  Log into tablet.
+2.  Launch Glasses 3 Controller app.
+3.  It should auto connect to the glasses name (RU\_#). If it doesn't, you can find the signal from the glasses in the same menu as Wi-Fi connections. It could also broadcast the ID \# of the recording unit.
+
+## Begin recording
+
+1.  Enter participant name.
+2.  Calibrate glasses with the target card.
+3.  Begin recording.
+
+## Import / Export video
+
+1.  Take the SD card out of the recording unit and insert it into a computer.
+2.  For just the raw footage without gaze overlay, navigate into the SD card and copy / paste the videos needed.
+3.  For gaze analysis and overlay, open the Tobii Pro Labs desktop app. Begin a new project, and select the SD card itself to import your videos.
+
+::: {.callout-note collapse="true" icon="false"}
+## Import tutorial video
+
+{{< video https://youtu.be/uuR9jNzyzDQ >}}
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Export gaze overlay tutorial video
+
+{{< video https://youtu.be/5OCr-kMIMWI >}}
+:::
+
+# Tobii Pro Labs
+
+There is a lot to unpack here. The best way to understand this app is through Tobii's academy. Run through some of the training available and mess around with a few fun projects to see what is available.
+
+[Tobii Academy](https://connect.tobii.com/s/tobii-academy?language=en_US)
+
+For the most basic use, all of the data you would be interested in exporting can be found in the "Metrics" tab, as well as the "Data Export" tab. Here, you can scroll through what data is available, select the information you would like, and export it as an excel file.
+
+For example, in the cognitive load pilot study, each participant recording was time stamped at various stages in the pilot. These markers are available to be exported and analyzed. 
+
+# FAQ
+
+::: {.callout-note collapse="true" icon="false"}
+## Tobii support
+
+You can make an account or use mine, just ask. [Support HERE](https://connect.tobii.com/s/?language=en_US)
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Hardware / Software updates
+
+To update the glasses, go through setup and connect them to the tablet, select the settings cog in the top right of the controller app. You will see a dropdown menu to view the firmware and update if there is a new version.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## My glasses aren't connecting / broadcasting a Wi-Fi signal
+
+Restart setup. Turn everything off and on.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## My glasses won't calibrate
+
+Try different lighting, or areas of the room. Make sure the participant doesn't have lots of dramatic eye makeup, piercings, or large fake eyelashes. There was only one instance where the glasses actually malfunctioned due to one of the cameras not working properly. After restarting setup and attempting calibrationa couple times, if issues still persist contact Tobii support.
+:::
