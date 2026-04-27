@@ -86,12 +86,12 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "The Research Ring",
+    "title": "Welcome To The Research Ring",
     "section": "",
-    "text": "You’ve found the Research Ring at the ALERRT Center. This website is a clearing house for all kinds of interesting information produced and/or collected by the Ring. There are two general types of content you’ll find here:\n\nPublic-facing–Content intended for public sharing (e.g., research articles, whitepapers, web apps)\nRing-facing–Content that is created with ourselves (or other colleagues at the ALERRT Center) in mind (e.g., instructionals, templates)\n\nBoth types of content are meant to be freely accessed and none of it is private.",
+    "text": "The Research Ring is a division within the Advanced Law Enforcement Rapid Response Training (ALERRT) Center at Texas State University. The Research Ring the supports the mission of the ALERRT Center to “…provide the best research-based active shooter response training in the nation” by producing research and other resources.\nWithin the ALERRT Center, our mandate is improve the lives and operational capacity of first responders through rigorous research and evaluation. Our research covers several topic areas:\n\nActive attack trends\nLaw enforcement training\nFirst responder health/wellness\nPublic/law enforcement opinion\n\n\n\n\n\n\n\n\nActive Attacks\n\n\nAt its core, the ALERRT Center is focused on preparing law enforcement and other first responders to respond to active attacks. Understanding the trends and commonalities between active attacks and how they change over time is critically important to this effort. The Research Ring maintains a database of active attacks that have occurred in the United States since 2000. We also host the website, ActiveAttackData.org, to make that database publicly accessible. Visitors will find resources (static/interactive plots, maps, etc.) that unpack the data. Or visitors can download the data directly from the website as well. All of the media is downloadable and free to use.",
     "crumbs": [
       "Home",
-      "The Research Ring"
+      "Welcome To The Research Ring"
     ]
   },
   {
@@ -1125,7 +1125,7 @@
     "href": "training_tobii.html#video",
     "title": "Tobii Vision Tracking Glasses",
     "section": "Video",
-    "text": "Video\n\n\n\n\n\n\nNoteTobii Quick Start Video",
+    "text": "Video\n\n\n\n\n\n\nTobii Quick Start Video",
     "crumbs": [
       "Ring Resources",
       "Training Materials",
@@ -1173,7 +1173,7 @@
     "href": "training_tobii.html#import-export-video",
     "title": "Tobii Vision Tracking Glasses",
     "section": "Import / Export video",
-    "text": "Import / Export video\n\nTake the SD card out of the recording unit and insert it into a computer.\nFor just the raw footage without gaze overlay, navigate into the SD card and copy / paste the videos needed.\nFor gaze analysis and overlay, open the Tobii Pro Labs desktop app. Begin a new project, and select the SD card itself to import your videos.\n\n\n\n\n\n\n\nNoteImport tutorial video\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteExport gaze overlay tutorial video",
+    "text": "Import / Export video\n\nTake the SD card out of the recording unit and insert it into a computer.\nFor just the raw footage without gaze overlay, navigate into the SD card and copy / paste the videos needed.\nFor gaze analysis and overlay, open the Tobii Pro Labs desktop app. Begin a new project, and select the SD card itself to import your videos.\n\n\n\n\n\n\n\nImport tutorial video\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExport gaze overlay tutorial video",
     "crumbs": [
       "Ring Resources",
       "Training Materials",

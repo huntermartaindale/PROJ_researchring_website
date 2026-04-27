@@ -1,19 +1,42 @@
 ---
-title: "The Research Ring"
+title: "Welcome To The Research Ring"
 ---
 
-## Welcome!
+:::::: columns
+::: {.column width="60%"}
+The Research Ring is a division within the [Advanced Law Enforcement Rapid Response Training (ALERRT) Center](https://alerrt.org/){target="_blank"} at Texas State University. The Research Ring the supports the mission of the ALERRT Center to "...**provide the best *research-based* active shooter response training in the nation"** by producing research and other resources.
 
-You've found the Research Ring at the ALERRT Center. This website is a clearing house for all kinds of interesting information produced and/or collected by the Ring. There are two general types of content you'll find here:
+Within the ALERRT Center, our mandate is improve the lives and operational capacity of first responders through rigorous research and evaluation. Our research covers several topic areas:
 
-1.  **Public-facing**--Content intended for public sharing (e.g., research articles, whitepapers, web apps)
+- Active attack trends
+- Law enforcement training
+- First responder health/wellness
+- Public/law enforcement opinion
+:::
 
-2.  **Ring-facing**--Content that is created with ourselves (or other colleagues at the ALERRT Center) in mind (e.g., instructionals, templates)
+::: {.column width="10%"}
+:::
 
-Both types of content are meant to be freely accessed and none of it is private.
+::: {.column width="30%"}
+![](resources/research_ring_hex/hex_1.png)
+:::
+::::::
 
-## Contents
 
--   Top-level summary of the RR mission, areas of interest, and how we integrate with training.
--   Link to the AA data portal
--   Link to Github
+### Active Attacks
+
+:::::: columns
+::: {.column width="60%"}
+
+At its core, the ALERRT Center is focused on preparing law enforcement and other first responders to respond to active attacks. Understanding the trends and commonalities between active attacks and how they change over time is critically important to this effort. The Research Ring maintains a database of active attacks that have occurred in the United States since 2000. We also host the website, [ActiveAttackData.org](https://activeattackdata.org/){target="_blank"}, to make that database publicly accessible. Visitors will find resources (static/interactive plots, maps, etc.) that unpack the data. Or visitors can download the data directly from the website as well. All of the media is downloadable and free to use.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+![](resources/aade_screenshot.png)
+:::
+::::::
+
+
