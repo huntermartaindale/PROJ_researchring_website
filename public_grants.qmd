@@ -136,7 +136,7 @@ Although mass public shootings are statistically rare, they have been increasing
 
 ##### Deliverables
 
-Web-based public-awareness training programs designed to teach audiences how to identify leakage and other pre-attack warning behaviors and how to report them. Audiences include K–12 students and staff, higher-education communities, and the general public.
+Web-based public-awareness training programs designed to teach audiences how to identify leakage and other pre-attack warning behaviors and how to report them. Audiences include K–12 students andSoudns g staff, higher-education communities, and the general public.
 
 ------------------------------------------------------------------------
 
