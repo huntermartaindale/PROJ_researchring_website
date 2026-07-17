@@ -1,0 +1,9 @@
+/* ================================================================
+   Research In Progress — page-specific styles
+   ================================================================ */
+
+/* Thicker, maroon-tinted dividers between entries */
+#quarto-document-content hr {
+  border-top: 1.5px solid rgba(80, 18, 20, 0.3);
+  margin: 2rem 0;
+}

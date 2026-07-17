@@ -1,0 +1,92 @@
+/* ================================================================
+   Research Output — page-specific styles (public_output.qmd only)
+   Loaded in addition to styles.css
+   ================================================================ */
+
+/* ================================================================
+   YEAR SECTION DIVIDERS — editorial annual-report style
+   ================================================================ */
+
+#quarto-document-content h1 {
+  font-size: clamp(2.25rem, 1.5rem + 3vw, 3.25rem);
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  text-transform: none;
+  color: var(--rr-maroon);
+  border-bottom: none;
+  padding-bottom: 1.25rem;
+  padding-top: 0;
+  margin-top: 4.5rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  line-height: 1;
+}
+
+#quarto-document-content h1::after {
+  content: '';
+  flex: 1;
+  height: 2px;
+  background: linear-gradient(to right, rgba(196, 155, 34, 0.55) 0%, transparent 80%);
+  border-radius: 1px;
+}
+
+#quarto-document-content h1 .anchorjs-link {
+  display: none;
+}
+
+/* ================================================================
+   JOURNAL LABEL — shown in collapsed callout header (via JS injection)
+   and inside expanded body
+   ================================================================ */
+
+.rr-journal-header-label {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.72rem;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--rr-text-muted);
+  margin: 0.15rem 0 0 !important;
+  opacity: 0.8;
+  line-height: 1.3;
+}
+
+.rr-journal-label {
+  margin: 0 0 0.5rem;
+  line-height: 1;
+}
+
+.rr-journal-label p {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: none;
+  font-style: italic;
+  color: var(--rr-text-muted);
+}
+
+/* ================================================================
+   PDF PILL BUTTON
+   ================================================================ */
+
+a.rr-article-pdf {
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.3rem 0.85rem;
+  background: var(--rr-maroon);
+  color: var(--rr-cream) !important;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-radius: 3px;
+  text-decoration: none !important;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+a.rr-article-pdf:hover {
+  background: var(--rr-gold);
+  color: var(--rr-maroon) !important;
+}

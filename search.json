@@ -1,0 +1,960 @@
+[
+  {
+    "objectID": "txst_travel.html",
+    "href": "txst_travel.html",
+    "title": "Travel",
+    "section": "",
+    "text": "Wanna get away?\nLet’s walk through the process of traveling on the university’s dime.\nflowchart LR\n    A[Travel Request] --&gt; B{Booking Method}\n    B --&gt; C[Book through Concur]\n    B --&gt; D[Book personally]\n    C --&gt; E[Submit Expense Reports]\n    D --&gt; E\nLet’s break it down.",
+    "crumbs": [
+      "Resources",
+      "Texas State",
+      "Travel"
+    ]
+  },
+  {
+    "objectID": "txst_travel.html#travel-requests",
+    "href": "txst_travel.html#travel-requests",
+    "title": "Travel",
+    "section": "Travel requests",
+    "text": "Travel requests\nBefore booking anything, you will need to fill out and submit a travel request through the university’s Concur Travel system. Click the link to get a copy of the travel request.\n\n Download travel request form \n\nOn the request form you will need to provide the following information:\n\nTraveler information (e.g., name, email, DOB, Net ID)\nTravel details (e.g., first/last day of travel, destination, reason for travel)\nEstimates of cost & hotel information\n\nIt is often the case that you do not know the exact cost of travel until after the trip. Estimating these costs for the request form is just fine.\n\n\n\n\n\n\nWarning\n\n\n\nOnce you have submitted and had your travel request approved, you should book your travel right away. If you wait to book your travel, prices will increase and the university does not appreciate large discrepancies between the estimated and final travel costs.\n\n\nHaving filled out the travel request form with all of the relevant information, submit it to Lauren Dundee-Sergent for processing.",
+    "crumbs": [
+      "Resources",
+      "Texas State",
+      "Travel"
+    ]
+  },
+  {
+    "objectID": "txst_travel.html#booking",
+    "href": "txst_travel.html#booking",
+    "title": "Travel",
+    "section": "Booking",
+    "text": "Booking\n\nOption 1 - Booking travel through Concur\n\n\nOption 2 - Booking travel personally",
+    "crumbs": [
+      "Resources",
+      "Texas State",
+      "Travel"
+    ]
+  },
+  {
+    "objectID": "txst_travel.html#submit-expense-report",
+    "href": "txst_travel.html#submit-expense-report",
+    "title": "Travel",
+    "section": "Submit expense report",
+    "text": "Submit expense report",
+    "crumbs": [
+      "Resources",
+      "Texas State",
+      "Travel"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html",
+    "href": "training_tobii.html",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "",
+    "text": "Tobii Pro Glasses 3\nRecording pack",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#pre-setup",
+    "href": "training_tobii.html#pre-setup",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Pre-setup",
+    "text": "Pre-setup\n\nMake sure you have charged the batteries.\nMake sure you have empty SD cards available for a new project.",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#video",
+    "href": "training_tobii.html#video",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Video",
+    "text": "Video\n\n\n\n\n\n\nTobii Quick Start Video",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#powering-the-glasses-on",
+    "href": "training_tobii.html#powering-the-glasses-on",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Powering the glasses on",
+    "text": "Powering the glasses on\nThis is what I do first, so that the signal can start broadcasting.\n\nInsert a battery into the recording unit.\nHold a finger over the power button until it lights up green.\nPlug in glasses",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#get-the-tablet",
+    "href": "training_tobii.html#get-the-tablet",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Get the tablet",
+    "text": "Get the tablet\n\nLog into tablet.\nLaunch Glasses 3 Controller app.\nIt should auto connect to the glasses name (RU_#). If it doesn’t, you can find the signal from the glasses in the same menu as Wi-Fi connections. It could also broadcast the ID # of the recording unit.",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#begin-recording",
+    "href": "training_tobii.html#begin-recording",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Begin recording",
+    "text": "Begin recording\n\nEnter participant name.\nCalibrate glasses with the target card.\nBegin recording.",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#import-export-video",
+    "href": "training_tobii.html#import-export-video",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Import / Export video",
+    "text": "Import / Export video\n\nTake the SD card out of the recording unit and insert it into a computer.\nFor just the raw footage without gaze overlay, navigate into the SD card and copy / paste the videos needed.\nFor gaze analysis and overlay, open the Tobii Pro Labs desktop app. Begin a new project, and select the SD card itself to import your videos.\n\n\n\n\n\n\n\nImport tutorial video\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExport gaze overlay tutorial video",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "research_process_wrapping_up.html",
+    "href": "research_process_wrapping_up.html",
+    "title": "Wrapping up a project",
+    "section": "",
+    "text": "Save a copy of the final PDF version from the publisher in the “Published Articles” folder on OneDrive (OneDrive &gt; Research &gt; Published Articles). Follow the naming convention as established (YEAR – Article Title).\n\n\nALERRT has funding available to pay for open access (aka: article processing costs). The lead author should coordinate with the Director of Research to make sure the correct funding line is used. The lead author should then complete a purchase request form to start the process.\n\n\n\nThe lead author of a project (in collaboration with key members of the team) should draft a list of highlights from the study to be posted on various personal/official media sites. This list of highlights should be forwarded to James Keith (director of external relations) to be released upon publication of the project. The same highlights should be shared by the lead (or a designated team member) on social media sites (e.g., X, LinkedIn). Tag all authors and ALERRT in social media posts. All authors should repost/share the original post to increase awareness.\n\n\n\nIf the publication is using original data that is still in use for another project, wait to upload the analysis directory until the other project(s) have been completed. Once it is ready, change the project repository to “public” so it is available.\n\n\n\nA “gist” (or summary) should be a more verbose version of the highlights of the project drafted for media use. It should contain a few elements: 1) a study motivation, 2) the approach, 3) findings (highlights), 4) implications, and 5) all relevant links (e.g., article link, GH repo). If the media picks up an article, links to those pieces should be added to the gist as well. An example gist is located in the “research process” folder and on the current research section of the ALERRT website (https://alerrt.org/reading).\n\n\n\nThe Substack article allows for expansion beyond a “gist” writeup. Pete will add his $.02 description at the end of the Substack article – describing the relevance.\nMove the project folder from the OneDrive current_projects directory to the past_projects directory.",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Wrapping up a project"
+    ]
+  },
+  {
+    "objectID": "research_process_wrapping_up.html#wrapping-up-a-project-post-acceptance",
+    "href": "research_process_wrapping_up.html#wrapping-up-a-project-post-acceptance",
+    "title": "Wrapping up a project",
+    "section": "",
+    "text": "Save a copy of the final PDF version from the publisher in the “Published Articles” folder on OneDrive (OneDrive &gt; Research &gt; Published Articles). Follow the naming convention as established (YEAR – Article Title).\n\n\nALERRT has funding available to pay for open access (aka: article processing costs). The lead author should coordinate with the Director of Research to make sure the correct funding line is used. The lead author should then complete a purchase request form to start the process.\n\n\n\nThe lead author of a project (in collaboration with key members of the team) should draft a list of highlights from the study to be posted on various personal/official media sites. This list of highlights should be forwarded to James Keith (director of external relations) to be released upon publication of the project. The same highlights should be shared by the lead (or a designated team member) on social media sites (e.g., X, LinkedIn). Tag all authors and ALERRT in social media posts. All authors should repost/share the original post to increase awareness.\n\n\n\nIf the publication is using original data that is still in use for another project, wait to upload the analysis directory until the other project(s) have been completed. Once it is ready, change the project repository to “public” so it is available.\n\n\n\nA “gist” (or summary) should be a more verbose version of the highlights of the project drafted for media use. It should contain a few elements: 1) a study motivation, 2) the approach, 3) findings (highlights), 4) implications, and 5) all relevant links (e.g., article link, GH repo). If the media picks up an article, links to those pieces should be added to the gist as well. An example gist is located in the “research process” folder and on the current research section of the ALERRT website (https://alerrt.org/reading).\n\n\n\nThe Substack article allows for expansion beyond a “gist” writeup. Pete will add his $.02 description at the end of the Substack article – describing the relevance.\nMove the project folder from the OneDrive current_projects directory to the past_projects directory.",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Wrapping up a project"
+    ]
+  },
+  {
+    "objectID": "research_process_publishing_in_a_journal.html",
+    "href": "research_process_publishing_in_a_journal.html",
+    "title": "Publishing in a journal",
+    "section": "",
+    "text": "Unless there is a compelling reason, the first author should also serve as the corresponding author. The first author will coordinate all required manuscript formatting for the specific journal. Additionally, some journal outlets have required documents (e.g., author acknowledgement) that will require all authors to sign.\n\n\nPosting a preprint usually occurs simultaneously with the initial submission of a project to an outlet for publication. The purpose of preprints is to get results out as early as possible while manuscripts go through the review process. Preprints are usually not a problem with journals, but that is not universally the case, so always check the outlet’s preprint policy prior to preprinting manuscripts. Preprints should never be used for manuscripts that are considered in a “rough” state. An easy rule of thumb is the following: if the preprint were accepted to a high-visibility journal with no changes whatsoever, would you be embarrassed by the state it is in? If the answer is “yes”, it is not ready for preprinting. Preprints are public; they should be high quality.\n\n\n\n\nAfter receiving an R&R from a journal, the lead author should combine all reviewer comments into two documents: 1) a word document with reviewer and comment numbers clearly delineated (titled: reviewer_response.docx), and 2) a reviewer comment matrix (titled: reviewer_matrix.xlxs).\n\n\nA reviewer comment matrix is a useful tool for identifying areas of overlap between the comments of different reviewers (i.e., areas that must be addressed). Create a comment matrix as follows:\n\nExample comment matrix\n\n\n\n\n\n\n\n\n\nTheme (optional)\nSection\nReviewer #1\nReviewer #2\nReviewer #3\n\n\n\n\n\nIntro.\nComment #1\n\n\n\n\n\nLit. Review.\nComment #2\n\n\n\n\nPower analysis\nMethods\nComment #3\n\n\n\n\nPower analysis\nMethods\n\nComment #1\n\n\n\nPower analysis\nMethods\n\n\nComment #1\n\n\n\nThe comment matrix should be in long format with respect to the section, so there will be multiple entries for some sections (possibly multiple section entries for a single reviewer). Once all the comments are added, comments that are common across reviewers can be merged into the same row to simply the matrix as follows:\n\nExample comment matrix (last row condensed)\n\n\n\n\n\n\n\n\n\nTheme (optional)\nSection\nReviewer #1\nReviewer #2\nReviewer #3\n\n\n\n\n\nIntro.\nComment #1\n\n\n\n\n\nLit. Review.\nComment #2\n\n\n\n\nPower analysis\nMethods\nComment #3\nComment #1\nComment #1\n\n\n\nFinally, if multiple entries for a section are present in the matrix, an optional “theme” column can be useful for organizing specific topics within a specific section. (Protip: add a filter to the matrix to make rearranging comments easy). The comment matrix is an extremely useful tool for viewing all the comments from an R&R simultaneously (instead of linearly) and can help the team rank/prioritize the comments (or themes). An example comment matrix is provided in the research_prcesses directory.\nThe reviewer response document should list all the reviewer comments in the order they are received. For example, Reviewer 1 comments will come first and be presented in the same order as received. This helps the reviewers quickly check if their comments/questions were addressed.\n\n\n\nAlthough not required by all journals, drafting a response letter is a nice touch. The response letter should be addressed to the editor that you have been corresponding with. The response letter should provide additional context if needed. It can serve as the introduction for the reviewer response document.",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Publishing in a journal"
+    ]
+  },
+  {
+    "objectID": "research_process_publishing_in_a_journal.html#publishing-in-a-journal",
+    "href": "research_process_publishing_in_a_journal.html#publishing-in-a-journal",
+    "title": "Publishing in a journal",
+    "section": "",
+    "text": "Unless there is a compelling reason, the first author should also serve as the corresponding author. The first author will coordinate all required manuscript formatting for the specific journal. Additionally, some journal outlets have required documents (e.g., author acknowledgement) that will require all authors to sign.\n\n\nPosting a preprint usually occurs simultaneously with the initial submission of a project to an outlet for publication. The purpose of preprints is to get results out as early as possible while manuscripts go through the review process. Preprints are usually not a problem with journals, but that is not universally the case, so always check the outlet’s preprint policy prior to preprinting manuscripts. Preprints should never be used for manuscripts that are considered in a “rough” state. An easy rule of thumb is the following: if the preprint were accepted to a high-visibility journal with no changes whatsoever, would you be embarrassed by the state it is in? If the answer is “yes”, it is not ready for preprinting. Preprints are public; they should be high quality.\n\n\n\n\nAfter receiving an R&R from a journal, the lead author should combine all reviewer comments into two documents: 1) a word document with reviewer and comment numbers clearly delineated (titled: reviewer_response.docx), and 2) a reviewer comment matrix (titled: reviewer_matrix.xlxs).\n\n\nA reviewer comment matrix is a useful tool for identifying areas of overlap between the comments of different reviewers (i.e., areas that must be addressed). Create a comment matrix as follows:\n\nExample comment matrix\n\n\n\n\n\n\n\n\n\nTheme (optional)\nSection\nReviewer #1\nReviewer #2\nReviewer #3\n\n\n\n\n\nIntro.\nComment #1\n\n\n\n\n\nLit. Review.\nComment #2\n\n\n\n\nPower analysis\nMethods\nComment #3\n\n\n\n\nPower analysis\nMethods\n\nComment #1\n\n\n\nPower analysis\nMethods\n\n\nComment #1\n\n\n\nThe comment matrix should be in long format with respect to the section, so there will be multiple entries for some sections (possibly multiple section entries for a single reviewer). Once all the comments are added, comments that are common across reviewers can be merged into the same row to simply the matrix as follows:\n\nExample comment matrix (last row condensed)\n\n\n\n\n\n\n\n\n\nTheme (optional)\nSection\nReviewer #1\nReviewer #2\nReviewer #3\n\n\n\n\n\nIntro.\nComment #1\n\n\n\n\n\nLit. Review.\nComment #2\n\n\n\n\nPower analysis\nMethods\nComment #3\nComment #1\nComment #1\n\n\n\nFinally, if multiple entries for a section are present in the matrix, an optional “theme” column can be useful for organizing specific topics within a specific section. (Protip: add a filter to the matrix to make rearranging comments easy). The comment matrix is an extremely useful tool for viewing all the comments from an R&R simultaneously (instead of linearly) and can help the team rank/prioritize the comments (or themes). An example comment matrix is provided in the research_prcesses directory.\nThe reviewer response document should list all the reviewer comments in the order they are received. For example, Reviewer 1 comments will come first and be presented in the same order as received. This helps the reviewers quickly check if their comments/questions were addressed.\n\n\n\nAlthough not required by all journals, drafting a response letter is a nice touch. The response letter should be addressed to the editor that you have been corresponding with. The response letter should provide additional context if needed. It can serve as the introduction for the reviewer response document.",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Publishing in a journal"
+    ]
+  },
+  {
+    "objectID": "research_process_getting_started.html#analysis-plan",
+    "href": "research_process_getting_started.html#analysis-plan",
+    "title": "Getting started",
+    "section": "Analysis plan",
+    "text": "Analysis plan\nAn analysis plan is the very first part of any project. A good analysis plan should describe the project in broad strokes, including project motivation, hypotheses, data description, and proposed methods. Though not set in stone–an analysis plan is meant to be flexible–an analysis plan should bear a striking resemblance to the front end of the final article. The point of the analysis plan is to force the team working on it to think deeply about the topic, data, and methods they have at hand and how they can realistically bring those forces to bear to answer an scientific question.\nWe have created a set of template analysis plans for the Research Ring that cover observational and experimental research projects, the two major types of projects we are likely to undertake. Download the appropriate template below and follow the instructions provided whenever you start a new project.\n\n\n\nObservational Research\n Download template \n\n\n\nExperimental Research\n Download template \n\n\n\nWhile not every analysis will require all of the elements in a given template, these templates will be an excellent resource for getting started. Additionally, they will force you to formalize all of the information needed for other downstream documents needed for the study, like study preregistrations and Internal Review Board (IRB) applications. We’ll talk about those below but first we need to talk about what the analysis plan is actually used for: proposing the project to the wider team.\n\nProposing a project\nUsually a project begins with an idea, a quick Google search, and an overabundance of enthusiasm. After confirming with other team members that the project is worthy of pursuit, an analysis plan should be drafted. After an analysis plan is drafted, it should be shared with the whole team in the form of a “project proposal” (as in, the analysis plan is your proposed approach to accomplishing the project). The process looks like this:\n\n\n\n\n\ngraph LR\n    A[Initial idea] --&gt; B[Draft analysis plan]\n    B --&gt; C[Propose project to team]\n    C --&gt; D[Develop IRB / Preregistration, etc.]\n\n\n\n\n\n\nProposing a project like this is useful for several reasons. First, it makes you think concretely about the project (enough to propose it). Second, getting feedback early on (i.e., prior to submitting IRBs or preregistration) is immensely helpful for identifying issues early on (e.g., the core issue is mis-conceptualized) or avoid duplication of effort (e.g., another team mate or research group is already doing something similar). Third, proposing a project allows you to solicit contributions from interested team members.\n\n\n\n\n\n\nParticipation\n\n\n\nAs a rule, anyone on the team is allowed to request participation in a project. As another rule, the lead author should try to accommodate these requests where it makes sense. Here’s the rub: participation should be based on contributions. Project teams should be kept lean, with every person making a substantive contribution (no freebies).\n\n\nAt the end of every project proposal (i.e., after discussing/ironing out all of the major details), the proposer should should provide two things: 1) tentative timeline and 2) a needs statement. Regarding the latter, a needs statement is just when the proposer says what they will need to complete the project (e.g., materials, funds, support from the team). This is also the point when the proposer lists all of the team members they envisioned helping on the project and what their role would be. This is a crucial step because this is where vision meets reality. For instance, if you imagined someone helping on the analysis but they do not have the bandwidth to help, plans will need to be adjusted–either a new team mate will need to take on the analysis role or the timeline can be adjusted.",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "research_process_getting_started.html#after-the-initial-project-proposal",
+    "href": "research_process_getting_started.html#after-the-initial-project-proposal",
+    "title": "Getting started",
+    "section": "After the initial project proposal",
+    "text": "After the initial project proposal\nSo you’ve proposed a project, received feedback, and gotten the green light to move forward–well done! The next step is usually to formalize your analysis plan in one of two ways (and possibly both!). Analysis plans should be used to 1) post a preregistration for the project and/or 2) submit an IRB application. We’ll breifly talk about each.\n\nPreregistration\nFor experimental studies, additional steps will be required to develop the analysis plan into a preregistration (this is not optional). We will use the Open Science Framework (OSF) website. The preregistration must be posted publicly prior to any data collection. However, this is more than just a public analysis plan; preregistrations contain several additional elements that are not required for observational studies (i.e., surveys, interviews, secondary data). Extra elements include:\n\nPower analysis\nConfirmatory hypotheses\nCriteria for positive/negative results\n\nWhen posting a preregistration on the OSF website, make sure to use the ALERRT-research account. OSF offers several resources that can help in formalizing a preregistration, much like the templates above. However, we will generally not use these as they can be too rigid and typically contain alot of material that is not actually needed for a good preregistration–they are generally designed fit many possible research designs so they end up fitting no particular research design well. Instead, use the analysis plan you began at the start of your project and add in the elements listed above to ensure that it covers all of the necessary topics.\n\n\nIRB applications\nMost observational studies and all experimental studies will require IRB approval. Development of the analysis plan will almost always provide all the required elements for an IRB application—conversely, anything required in an IRB application should be included in a project’s analysis plan. To submit an IRB proposal to Texas State University, you’ll need to access the Kuali System.",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html",
+    "href": "r_quarto_website_github_pages.html",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "",
+    "text": "This guide demonstrates how to create and publish a Quarto website using GitHub Pages and GitHub Actions, with automatic deployment so you never need to render files locally.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#prerequisites",
+    "href": "r_quarto_website_github_pages.html#prerequisites",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nGit installed on your computer\nA GitHub account",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#create-a-new-quarto-project",
+    "href": "r_quarto_website_github_pages.html#create-a-new-quarto-project",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "1. Create a New Quarto Project",
+    "text": "1. Create a New Quarto Project\n\nOpen RStudio and go to: File &gt; New Project &gt; New Directory &gt; Quarto Website\nFor Directory name, use the form:\n\nFor a personal site: username.github.io\nFor an organization: organizationname.github.io\n\nChoose a folder to save the project locally.\nMake sure to check:\n\nCreate a git repository\nUse renv with this project\n\nClick Create Project. This sets up your Quarto site with version control and reproducible package management.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#create-github-repository",
+    "href": "r_quarto_website_github_pages.html#create-github-repository",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "2. Create GitHub Repository",
+    "text": "2. Create GitHub Repository\n\nIn GitHub, create a new repository.\nName it exactly the same as your project directory (e.g. username.github.io).\nMake the repository Public (required for free GitHub Pages).\nClick Create repository.\n\nConnect your local project to this repository:\n\nCopy the GitHub setup commands (shown after creating the repo).\nOpen a terminal/Git Bash, go to your project folder, paste and run those commands.\nAdd, commit, and push your files:\n\ngit add .\ngit commit -m \"Initial commit\"\ngit push",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#create-the-gh-pages-branch",
+    "href": "r_quarto_website_github_pages.html#create-the-gh-pages-branch",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "3. Create the gh-pages Branch",
+    "text": "3. Create the gh-pages Branch\n\nOn GitHub, open the branches dropdown (where it says main).\nClick “View all branches”, then “New branch”.\nName it gh-pages and create it.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#set-up-github-actions-workflow",
+    "href": "r_quarto_website_github_pages.html#set-up-github-actions-workflow",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "4. Set Up GitHub Actions Workflow",
+    "text": "4. Set Up GitHub Actions Workflow\n\nIn your Quarto project folder, create the following structure:\n\n.github/workflows/\nInside, add a file named publish.yml\n\nAdd this content to .github/workflows/publish.yml (Taken from the official Quarto documentation)\n\non:\n  workflow_dispatch:\n  push:\n    branches: main\n\nname: Quarto Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    permissions:\n      contents: write\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v4\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n\n      - name: Set up R\n        uses: r-lib/actions/setup-r@v2\n        with:\n          use-public-rspm: true\n\n      - name: Restore renv snapshot\n        uses: r-lib/actions/setup-renv@v2\n\n      - name: Render and Publish\n        uses: quarto-dev/quarto-actions/publish@v2\n        with:\n          target: gh-pages\n        env:\n          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}\n\nSave the file.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#commit-and-push-workflow-file",
+    "href": "r_quarto_website_github_pages.html#commit-and-push-workflow-file",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "5. Commit and Push Workflow File",
+    "text": "5. Commit and Push Workflow File\ngit add .\ngit commit -m \"Add GitHub Actions workflow\"\ngit push",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#configure-github-pages",
+    "href": "r_quarto_website_github_pages.html#configure-github-pages",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "6. Configure GitHub Pages",
+    "text": "6. Configure GitHub Pages\n\nOn GitHub, open your repository settings.\nGo to Pages in the sidebar.\nSet the publishing branch to gh-pages. Save.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#monitor-deployment",
+    "href": "r_quarto_website_github_pages.html#monitor-deployment",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "7. Monitor Deployment",
+    "text": "7. Monitor Deployment\n\nIn GitHub, open the Actions tab.\nYou’ll see the workflow running automatically.\nWait until all steps pass (green checkmarks).\nWhen complete, go back to Settings &gt; Pages and find your published site link.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#how-it-works",
+    "href": "r_quarto_website_github_pages.html#how-it-works",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "How It Works",
+    "text": "How It Works\n\nGitHub Actions installs R and Quarto, restores R package versions (renv), renders your project, and deploys it—all automatically on every push.\nNo local rendering required: Just commit and push; GitHub builds and updates your website.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "r_quarto_website_github_pages.html#tips-troubleshooting",
+    "href": "r_quarto_website_github_pages.html#tips-troubleshooting",
+    "title": "How to Publish a Quarto Website with GitHub Pages and Actions",
+    "section": "Tips & Troubleshooting",
+    "text": "Tips & Troubleshooting\n\nThe site will publish at:\n\nFor personal sites: https://username.github.io\nFor project sites: https://username.github.io/repositoryname/\n\nIf the workflow fails, check the Actions tab for error logs.\nConfirm your repository is public and the Pages branch matches the workflow output.\n\n\nGuide adapted from Melissa Van Bussel and Quarto documentation, 2024.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "How to Publish a Quarto Website with GitHub Pages and Actions"
+    ]
+  },
+  {
+    "objectID": "public_work_with_us.html",
+    "href": "public_work_with_us.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "Whether you’re an agency interested in partnering on research, a scholar looking to collaborate, or a journalist seeking accurate information for a story — we’d love to hear from you.",
+    "crumbs": [
+      "Home",
+      "Get in Touch"
+    ]
+  },
+  {
+    "objectID": "public_work_with_us.html#send-us-a-message",
+    "href": "public_work_with_us.html#send-us-a-message",
+    "title": "Get in Touch",
+    "section": "Send us a message",
+    "text": "Send us a message\nFill out the form below and Hunter Martaindale, Director of Research, will follow up with you directly.\n\n  \n    \n      Name\n      \n    \n    \n      Organization\n      \n    \n  \n  \n    \n      Email\n      \n    \n    \n      I am a...\n      \n        Select one\n        Agency / Organization\n        Researcher / Academic\n        Journalist / Media\n        Other\n      \n    \n  \n  \n    Message\n    \n  \n  Send Message",
+    "crumbs": [
+      "Home",
+      "Get in Touch"
+    ]
+  },
+  {
+    "objectID": "public_research.html",
+    "href": "public_research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research is at the heart of ALERRT. The Research Ring operates under a broad mandate that guides all of its efforts:\n\nSupport first responders through original, rigorous research — improving their lives and their ability to execute their duties.\n\nThat mandate has guided more than a decade of scholarship, producing a growing body of work across peer-reviewed journals, books, and technical reports — reflected in the figures below.\n\n  \n    65\n    Total Publications\n  \n  \n    1,803\n    Total Citations\n  \n  \n    19\n    h-index\n  \n\nData via collective Google Scholar analysis. Includes peer-reviewed articles, books, book chapters, and technical reports.\n\n\n  \n    \n    Research Output\n    Peer-reviewed journal articles and other scholarly publications, organized by year.\n    Browse publications →\n  \n\n  \n    \n    In Progress\n    Active projects currently in the analysis, writing, or review pipeline.\n    See what's in the pipeline →\n  \n\n  \n    \n    Books & Reports\n    Books, book chapters, and publicly released technical reports from Research Ring members.\n    View books & reports →\n  \n\n  \n    \n    Grants & Funding\n    Current and past awards supporting ALERRT's programmatic and research work.\n    View grant portfolio →",
+    "crumbs": [
+      "Home",
+      "Research"
+    ]
+  },
+  {
+    "objectID": "public_output.html",
+    "href": "public_output.html",
+    "title": "Research Output",
+    "section": "",
+    "text": "This page collects peer-reviewed journal articles and other scholarly output from Research Ring projects. For a broader view of ALERRT research — including dissertations, technical studies, and after-action reports — visit the ALERRT collection at the Texas State University Library.\n\n2026\n\n\n\n\n\n\nIntroducing Sharing Information to Stop Mass Shootings (SISMS): A Short Report on a Behavioral and Event-Level Dataset for the Study of Mass Public Shootings\n\n\n\n\n\nThis short report introduces Sharing Information to Stop Mass Shootings (SISMS), a new behavioral and event-level dataset built to support research on mass public shootings in the United States. The dataset currently documents 171 incidents and 175 perpetrators occurring between 1999 and 2024 for which pre-attack warning behaviors or leakage could be confirmed, drawing on public records, official documents, and triangulated open-source reporting. Beyond demographic and incident characteristics, SISMS captures grievances, concerning behaviors, planning and preparation, leakage, and other warning indicators along the pathway to targeted violence. By standardizing how these pre-attack behaviors are defined and coded, the dataset gives researchers and violence-prevention practitioners a more consistent foundation for studying how mass shootings develop and how they might be prevented.\n\nAmerican Journal of Criminal Justice\n\nView the article here.\n\n\n\n\n\n\n\n\n\nPolice Officers With Supplemental Martial Arts Training Perform Better: A Quasi-Experimental Study With Brazilian Cadets\n\n\n\n\n\nThis quasi-experimental study tested whether supplemental martial arts training improves police officers’ use-of-force performance, using 34 police cadets from a southern Brazilian state divided into three groups: Brazilian jiu-jitsu, Muay Thai, and a control group with no martial arts experience. Each cadet was scored in a simulated, high-stress use-of-force scenario across tactics, decision-making, de-escalation, team safety, and movement execution. Both trained groups substantially outperformed the control group on movement execution, effectiveness, and overall grades, with no meaningful difference between the jiu-jitsu and Muay Thai groups. The authors conclude that police departments should provide or at least incentivize supplemental striking or grappling training, while noting that officers can still reach high performance through high-quality, reality-based departmental use-of-force training alone.\n\nJournal of Police and Criminal Psychology\n\nView the article here.\n\n\n\n\n\n\n\n\n\nPolice Use of Force Training: Integrative Review of Quantitative Studies\n\n\n\n\n\nThis integrative review synthesized 78 quantitative studies to identify the most promising practices for training police on use of force, spanning verbalization and de-escalation, less-lethal force, and lethal force. The authors graded the quality of the evidence behind each training type and found that approaches using stimuli resembling real policing environments tended to produce the best results: video- and real-life-based simulations, biofeedback-based training (such as the iPrep program, which had the strongest supporting evidence), range shooting, martial arts and sparring, and imagery training. They also found that breaking a target behavior into smaller units and using periodic simulated tests can improve skill acquisition. The review notes that most existing research examines how tactics are executed rather than threat recognition, decision-making, or when to stop using force, and calls for more methodologically rigorous, openly documented training studies.\n\nPolice Practice and Research: An International Journal\n\nView the article here.\n\n\n\n\n\n\n\n\n\nBox Breathing and Prolonged Exhalation Reduces Markers of Physiological Stress Reactivity in Response to a Virtual Trier Social Stress Test\n\n\n\n\n\nThis randomized controlled trial tested whether simple breathing techniques can blunt the body’s stress response during an acutely stressful task. Sixty-six participants were assigned to normal breathing, prolonged exhalation, or box breathing before completing a virtual version of the Trier Social Stress Test, a standardized laboratory stress challenge. The test reliably raised heart rate, state anxiety, and salivary stress markers across participants. Both prolonged exhalation and box breathing reduced the post-stress rise in heart rate, anxiety, and salivary alpha-amylase compared to normal breathing, while cortisol, heart rate variability, and cognitive performance were largely unaffected. The findings suggest that brief, easily taught breathing practices can help buffer the immediate physiological and psychological toll of acute stress, with potential value for high-stress occupations such as law enforcement, firefighting, and the military.\n\nComprehensive Psychoneuroendocrinology\n\nView the article here.\n\n\n\n\n\n\n\n\n\nInflammation on the Frontlines: Linking Salivary and Blood Biomarkers to Cardiometabolic Health and Physical Performance Parameters in Firefighters\n\n\n\n\n\nFirefighting is a physically and psychologically demanding occupation in which roughly half of on-duty deaths over the past four decades have stemmed from cardiac events, making early screening for cardiometabolic disease risk a priority. This study measured blood and salivary biomarkers of inflammation, stress, and oxidative stress in 140 career structural firefighters and related them to body composition, fitness, and cardiometabolic health. Higher pro-inflammatory biomarkers were associated with greater adiposity and cardiometabolic risk and with lower physical fitness, while blood markers of oxidative stress tracked with insulin resistance and inflammation. Salivary interleukin-6 (IL-6) in particular showed robust associations with body composition, physical performance, and cardiometabolic risk. The authors conclude that easily collected salivary inflammatory biomarkers, especially IL-6, may offer a practical, non-invasive complement to blood testing for identifying cardiometabolic disease risk in firefighters.\n\nJournal of Occupational and Environmental Medicine\n\nView the article here.\n\n\n\n\n\n\n\n\n\nBeyond the Transfer Gap: An Ecological Dynamics Framework for Police Training Design\n\n\n\n\n\nPolice training has long been constrained by a “transfer gap” — the persistent problem of skills learned in controlled settings failing to carry over into the complex, unpredictable situations officers encounter in practice. Drawing on ecological dynamics, a framework from motor learning science that emphasizes the ongoing interaction between the learner, the task, and the environment, this article proposes a reconceptualization of police training design around representative practice and task variability rather than repeated drills of isolated skills. The framework offers a principled basis for building the adaptable, context-sensitive competencies that real operational demands require.\n\nEvidence Base\n\nView the article here.\n\n\n\n\n\n\n\n\n\nProviding Active-Shooter Response Training to Civilians and Educational Institutions in the Western Balkans\n\n\n\n\n\nThis article describes the implementation of active-shooter response training for civilians and schools in the Western Balkans, a region with its own history of mass violence and distinct institutional context. The authors examine how training programs developed in the United States can be adapted and delivered to non-law-enforcement audiences in international settings, with attention to the practical and cultural considerations involved in preparing civilians and educators to respond effectively to active-attack events.\n\nVarstvoslovje: Journal of Criminal Justice and Security\n\nView the article here.\n\n\n\n\n\n\n\n\n\nAI-Generated Human Stimuli for Experimental Social Science\n\n\n\n\n\nThis study tested whether AI-generated images of police officers can serve as reliable and consistent visual stimuli in social science research, specifically for studying how people perceive officers of different races, genders, and body types. In a nationally representative U.S. sample, participants accurately identified the intended characteristics in each AI-created profile and responded to them in ways consistent with established research on social perception, rating muscular officers more favorably and responding more negatively to officers with higher body weight. The results support AI-generated images as a transparent, reproducible, and scalable tool for researchers who need controlled visual stimuli in experiments about policing and related topics.\n\nJournal of Experimental Criminology\n\nView the article here.\n\n\n\n\n\n\n\n\n\nClarifying Methods and Interpretations in Law Enforcement Mortality Surveillance: Response to Kamal\n\n\n\n\n\nThis brief responds to a published commentary raising methodological concerns about a 2025 ALERRT study on law enforcement officer mortality. The authors address questions about how occupation is recorded in mortality data and the potential for statistical bias, explaining the reasoning behind their original analytical decisions. They reaffirm that the study was descriptive rather than causal and offer additional comparisons to further contextualize the findings, noting that the work provides a valuable baseline for understanding officer mortality that future studies can build upon.\n\nThe Lancet Regional Health - Americas\n\nView the article here.\n\n\n\n\n\n\n\n\n\nPublic Opinion and the Immediate Entry Dilemma: A Factorial Survey Experiment on Active Shooter Response\n\n\n\n\n\nThis study measured what the general public thinks law enforcement officers should do when responding to active shooter events, using two national samples in which participants evaluated more than 15,800 fictional scenarios depicting different officer decisions. Law enforcement officers are most influenced by active threat cues like gunfire or injured victims, but citizens based their judgments primarily on the location of the event, strongly supporting immediate police entry in schools and at parades while being more accepting of a delayed response in settings like large shopping malls. These findings suggest that public expectations and law enforcement training may not always align, which has important implications for police legitimacy and community trust in the aftermath of high-profile events.\n\nJournal of Criminal Justice\n\nView the article here.\n\n\n\n\n\n\n\n\n\nStriking or Grappling? Comparing Public and Officers’ Perceptions of Police Use of Force\n\n\n\n\n\nThis experiment showed short video clips of a police encounter to nearly 1,000 civilians and 744 law enforcement officers, with the clips varying in the type of force used, either a punch or a takedown, as well as the races of the officer and the suspect. Both civilians and officers consistently rated the takedown as more professional and appropriate than the punch, with takedown officers receiving excellent ratings roughly 15 to 25 percentage points more often across both groups. The race of the officer or suspect did not significantly affect judgments in either group. The findings highlight that perceptions of police force are shaped heavily by how the force looks, not just whether it is legally justified, underscoring the importance of both technique and appearance in public and professional evaluations.\n\nJournal of Criminal Justice\n\nView the article here.\n\n\n\n\n\n2025\n\n\n\n\n\n\nActive Attacks with Motor Vehicles: A Short Report and Case Study of the 2025 New Year’s Day Attack in New Orleans, LA\n\n\n\n\n\nPrompted by the deadly New Year’s Day 2025 truck attack on Bourbon Street in New Orleans that killed 14 people, this report examines vehicle-based attacks in the United States using data from the ALERRT Active Attack dataset. Although vehicle attacks make up only a small percentage of all active attacks, they result in significantly more injuries than attacks involving other weapons and are increasingly associated with terrorist organizations. The report outlines patterns in U.S. vehicle-based attacks from 2000 to 2025 and offers practical prevention recommendations, including the strategic placement of physical barriers at crowded public events.\n\nAmerican Journal of Criminal Justice\n\nView the article here.\n\n\n\n\n\n\n\n\n\nMarkers of Fitness, Stress, and Cardiometabolic Disease Risk Among Law Enforcement Officers\n\n\n\n\n\nThis study examined fitness and health data from 66 male law enforcement officers in Texas to better understand the relationship between physical fitness and risk of heart disease and metabolic illness. Officers with higher cardiorespiratory and muscular fitness had lower insulin resistance, which is a key marker for metabolic disease, while those with higher body fat showed greater levels of inflammation and insulin resistance. The results reinforce that maintaining physical fitness and a healthy body composition are important tools for protecting law enforcement officers from serious long-term health problems.\n\nJournal of Occupational and Environmental Medicine\n\nView the article here.\n\n\n\n\n\n\n\n\n\nMortality Among Law Enforcement Officers in the United States: A Population-Wide Analysis of the National Occupational Mortality Surveillance Data, 2020 to 2023\n\n\n\n\n\nUsing data from the National Occupational Mortality Surveillance program covering more than 15,000 law enforcement officer deaths from 2020 to 2023, this study provides one of the most comprehensive pictures to date of when, why, and among whom officers die. Law enforcement officers showed higher overall death rates compared to the general working-age population, with heart disease, cancer, suicide, and COVID-19 among the leading causes of death for male officers, and cancer being the leading cause for female officers. These findings highlight the urgent need for targeted prevention efforts addressing cardiovascular health, cancer screening, and mental health support within law enforcement.\n\nThe Lancet Regional Health - Americas\n\nView the article here.\n\n\n\n\n\n\n\n\n\nRelationships Between Physiological Stress Biomarkers and Cardiovascular Disease Risk Factors Among Career Firefighters\n\n\n\n\n\nThis study examined the relationships between fitness, body composition, physiological stress, and cardiovascular disease risk among 97 career male firefighters. Firefighters with better cardiorespiratory fitness, greater muscular strength, and healthier body composition had lower markers of insulin resistance, inflammation, and oxidative stress, all of which are linked to heart disease. Notably, salivary stress biomarkers alone were not significantly associated with cardiovascular risk factors, suggesting that fitness and body composition play a more direct role in protecting firefighters’ heart health than stress hormones measured in isolation.\n\nJournal of Occupational and Environmental Medicine\n\nView the article here.\n\n\n\n\n\n\n\n\n\nShift Schedule Change from 24/48 to 1/3/2/3 Improves Markers of Stress and Quality of Life in Career Firefighters\n\n\n\n\n\nThis study followed career firefighters from the Kyle Fire Department as they transitioned from the traditional 24-hours-on/48-hours-off schedule to a rotating schedule offering longer recovery periods between shifts. Over seven months, firefighters on the new schedule showed significantly lower cortisol levels (a key stress hormone), improved sleep quality, and better overall quality of life. The findings suggest that giving firefighters more time to recover between shifts may meaningfully reduce the physical and mental toll of the job.\n\nJournal of Occupational and Environmental Medicine\n\nView the article here.\n\n\n\n\n\n\n\n\n\nTo What Are We Inferring? The Widespread Misuse of Inferential Testing in the Most Cited Criminology and Criminal Justice Journals\n\n\n\n\n\nThis study reviewed articles published in 18 of the top-ranked criminology and criminal justice journals to assess how often researchers apply statistical significance tests without meeting the basic requirement of random selection or random assignment. Nearly three-quarters of the reviewed articles used these tests inappropriately, and most researchers focused on whether results were statistically significant rather than on whether they were practically meaningful. The authors call for better statistical training in graduate education, reform of publishing standards, and greater use of exploratory research methods to strengthen the quality of evidence informing criminal justice policy.\n\nAmerican Journal of Criminal Justice\n\nView the article here.\n\n\n\n\n\n\n\n\n\nVirtual Reality Based Active Shooter Training: Added Physical Stress Increases Anxiety but Not Stress Biomarkers\n\n\n\n\n\nThis study compared the stress responses of 54 participants who either exercised alone or combined exercise with a virtual reality active shooter training drill. Both groups showed increases in biological stress markers, but those who experienced the combined physical and mental challenge reported significantly higher anxiety in the aftermath. The study also found that female participants showed lower stress biomarker responses than male participants overall. These findings suggest that mental stress, such as that encountered in high-stakes training scenarios, adds meaningfully to perceived anxiety beyond what physical exertion produces on its own.\n\nPsychoneuroendocrinology\n\nView the article here.\n\n\n\n\n\n2024\n\n\n\n\n\n\nInterviewing and Interrogation Practices and Beliefs, 20 Years Later\n\n\n\n\n\nThis study surveyed 526 U.S. law enforcement officers to see whether beliefs and practices around interviewing and interrogation have changed over the past two decades, comparing results to a landmark 2007 survey. The findings show real progress: more than half of interrogations are now recorded on video, compared to fewer than one in ten in 2007, and officers today are much more likely to acknowledge that false confessions happen. These results suggest that law enforcement has been moving in a more science-informed direction when it comes to questioning practices, even though the exact reasons for that shift remain unclear.\n\nLaw and Human Behavior\n\nView the article here.\n\n\n\n\n\n\n\n\n\n#FalseFlag: Exploring themes in conspiracy theory tweets regarding the Robb Elementary active shooter event\n\n\n\n\n\nHow do conspiracy theories affect the explanation of active shooter events? After confusing and tragic events like active attacks, the public can be more vulnerable to conspiratorial thinking. Two main themes are identified: False flag and Hypothesized reasoning. Results show that many posts following the attack in Uvalde tried to casually explain what happened. But how do these theories affect the people involved in these events?\n\nJournal of Qualitative Criminal Justice & Criminology\n\nView the article here.\n\n\n\n\n\n\n\n\n\nArm the educators… but not without conditions: a qualitative assessment of law enforcement officers’ support for armed teacher policies\n\n\n\n\n\nWhen discussing options for protecting the safety of those in schools from active attacks, one of the most controversial options is to arm teachers. Without any research to support its efficacy, more than half of the U.S. has authorized policies to arm teachers. The public opinion for this is incredibly divided, but what do the responding police officers think of changes like these? Ten subthemes were identified and were grouped into three larger categories: value of armed teachers, training, and other considerations. Results and implications are discussed further.\n\nPolice Practice and Research\n\nView the article here.\n\n\n\n\n\n\n\n\n\nCan a Virtual Reality Training Scenario Elicit Similar Stress Response as a Realistic Scenario-Based Training Scenario?\n\n\n\n\n\nThe main benefit of scenario-based training is to create realistic and stressful situations for trainees. Recently, departments have started to use virtual reality (VR) to also create scenario training for officers. The aim of this study is to explore whether virtual reality can also induce stress in the same ways an in-person scenario can. Salivary markers of stress were collected before and after a participant experienced either the VR or the in-person scenario. Results were compared and overall stress responses were shown to be similar, thus further implications for training are discussed.\n\nPolice Quarterly\n\nView the article here.\n\n\n\n\n\n\n\n\n\nImpact of L-theanine and L-tyrosine on markers of stress and cognitive performance in response to a virtual reality based active shooter training drill\n\n\n\n\n\nThe ingestion of L-theanine and L-tyrosine has been shown to reduce salivary stress markers and improve cognitive performance. This study aims to take a closer look at if that is true while performing a mental stress challenge in virtual reality. Participants were randomly assigned doses or placebo, then performed a virtual reality active shooter training drill. Saliva samples were taken before and after the drill and results were compared. It was found that L-theanine and L-tyrosine did not affect the markers of stress but could impact cognitive performance.\n\nStress\n\nView the article here.\n\n\n\n\n\n\n\n\n\nStress response to virtual reality based active shooter training: Impact of caffeine consumption\n\n\n\n\n\nVirtual reality based active shooter training drills have been shown to induce stress in participants, but how does caffeine consumption affect these results? Caffeine can result in better physical and cognitive performance, so could it perform similarly in a virtual reality situation? Participants were randomly assigned caffeine or a placebo, and saliva samples were taken before and after performing a mental stress task in a virtual reality active shooter scenario. Results show that caffeine consumption increased levels of\nα-amylase after performing the mental stress task.\n\nPsychoneuroendocrinology\n\nView the article here.\n\n\n\n\n\n\n\n\n\nOh, @#%$!: a replication and expansion of Martaindale et al. (2023)\n\n\n\n\n\nA previous study looking into the effects of an officer’s use of vulgar language during use of force is elaborated on further. Originally, the lack of audio in videos shown during the study was highlighted as a limitation. Now, audio was added over each video condition showing use of force, and the study was replicated. Results proved to be similar, showing that public perception of use of force is affected by the use of profanity by the officer. With the presence of vulgar language, regardless of if only read or heard, being perceived as less reasonable.\n\nPolicing: An International Journal\n\nView the article here.\n\n\n\n\n\n2023\n\n\n\n\n\n\nRisk Factors for Cardiometabolic Disease in Professional Firefighters\n\n\n\n\n\nFirefighters are often diagnosed with cardiometabolic disease, which is linked to multiple risk factors. This study looks into how markers of oxidative stress, inflammation, and insulin resistance can also have information vital to cardiometabolic disease risk. Multiple fitness metrics were taken from firefighters of various years of experience, and the results show an importance of a strong cardiorespiratory fitness and low waist circumference could reduce the markers of cardiovascular disease.\n\nJournal of Occupational and Environmental Medicine\n\nView the article here.\n\n\n\n\n\n\n\n\n\nSlow Breathing Reduces Biomarkers of Stress in Response to a Virtual Reality Active Shooter Training Drill\n\n\n\n\n\nPolice, military, and firefighters often experience life-threatening situations. These individuals are trained to use slow breathing techniques while encountering these stressful situations but there is no evidence that tests the effects of these techniques in virtual reality active shooter drills. This study measures biomarkers of stress in response to being assigned one of two slow breathing methods or normal breathing. It is shown that both slow breathing methods resulted in much lower stress markers when compared to normal breathing practices.\n\nHealthcare\n\nView the article here.\n\n\n\n\n\n\n\n\n\nWait for backup or not? How police officers view their role when responding to and active shooter event\n\n\n\n\n\nIf there is an active threat to the public, would police officers wait for more officers to arrive before approaching? This study gathered 796 officers from over 43 states and presented various hypothetical attack situations. Respondents were 14 to 80 times more likely to agree with the hypothetical officer’s decision to approach an attack immediately if a driving force was present. Driving force typically includes things like gunfire or injured victims. If there is an ongoing threat, law enforcement agreed with the public that officers should immediately enter.\n\nJournal of Experimental Criminology\n\nView the article here.\n\n\n\n\n\n\n\n\n\nSuccessfully securing a classroom door: Evaluating two types of door locks\n\n\n\n\n\nCan the type of door lock have an impact on someone’s ability to quickly and accurately secure? This study assessed two types of door locks, one that used a push button from the inside to lock the door and another that required a key to activate the lock. Results showed that simple, push-button door locks can be secured with fewer errors and faster than a keyed door lock. Policy recommendations are included.\n\nJournal of Mass Violence Research\n\nView the article here.\n\n\n\n\n\n2022\n\n\n\n\n\n\nShould Firearms be Allowed in K-12 Public Schools? An Analysis of Law Enforcement’s Perceptions of Armed Teacher Policies\n\n\n\n\n\nActive shooter events occurring in schools generate widespread public concern and a demand to “do something.” One such policy that has gained traction following the 2018 shooting in Parkland, FL is arming teachers. This study used a nationally drawn sample of law enforcement. Ultimately, we found that law enforcement overwhelmingly supports armed teacher policies, but the support is contingent upon concerns related to training.\n\nSecurity Journal\n\nView the article here.\n\n\n\n\n\n\n\n\n\nArmed and Considered Capable? Law Enforcement Officers’ Attitudes About Armed Teacher Policies in the USA\n\n\n\n\n\nThis project utilized a nationally drawn sample of law enforcement officers to answer questions regarding their attitudes about armed teacher policies. Law enforcement officers provided insights on their attitudes regarding the capabilities of armed teachers, training considerations, as well as firearm and proficiency certification policies. This project utilized a nationally drawn sample of law enforcement officers to answer questions regarding their attitudes about armed teacher policies. Law enforcement officers provided insights on their attitudes regarding the capabilities of armed teachers, training considerations, as well as firearm and proficiency certification policies.\n\nCrime Prevention and Community Safety\n\nView the article here.\n\n\n\n\n\n\n\n\n\nVirtual Reality Based Active Shooter Training Drill Increases Salivary and Subjective Markers of Stress\n\n\n\n\n\nVirtual reality (VR) has emerged as a training tool for law enforcement. While VR is expected to provide a stressful environment for law enforcement to train, little is known about the acute stress response from VR exposure. This study examined the impact of participating in a VR-based active shooter scenario on markers of physiological stress using salivary based measures of stress (e.g., alpha-amylase and secretory immunoglobulin-A [SIgA]). Participating in the VR active shooter scenario resulted in an increase in salivary stress markers.\n\nYale Journal of Biology and Medicine\n\nView the article here.\n\n\n\n\n\n\n\n\n\nHow Police Officers Are Shot and Killed During Active Shooter Events: Implications for Response and Training\n\n\n\n\n\nActive shooter events have driven police to change how they respond to events where an attacker is actively engaged in killing civilians. This paper examines these changes through the lenses of Normal Accident Theory (NAT) and Resilience Engineering (RE). Our results show a police officer is shot in one out of every six active shooter events in the United States. We apply RE to better understand how these shootings occur so that police can improve their ability to anticipate, monitor, and respond during these attacks.\n\nThe Police Journal Theory Practice and Principles\n\nView the article here.\n\n\n\n\n\n\n\n\n\nWhat Are We Talking About? Definitional Confusion Within Active and Mass Shooting Research\n\n\n\n\n\nActive-shooting events have become a big topic for many, including practitioners, researchers, and the media. With so many points of view, there is usually some confusion around what exactly some of the defining characteristics of these events are. The purpose of this paper is to explore and elaborate more to define these cases with recorded examples. Databases that exist are discussed as well, along with their inclusion criteria.\n\nJournal of Mass Violence Research\n\nView the article here.\n\n\n\n\n\n\n\n\n\nFirefighters With Higher Cardiorespiratory Fitness Demonstrate Lower Markers of Cardiovascular Disease Risk\n\n\n\n\n\nA stronger cardiorespiratory fitness level is associated with lower oxidative stress and cardiovascular disease. Yet this correlation has not been studied in firefighters. This study examines firefighters with higher and lower cardiorespiratory levels and their corresponding risk for cardiovascular disease. It was found that high fitness firefighters show significantly lower markers of cardiovascular disease risk and should maintain high cardiorespiratory fitness.\n\nJournal of Occupational and Environmental Medicine\n\nView the article here.\n\n\n\n\n\n\n\n\n\n@#%$!: The Impact of Officer Profanity on Civilians’ Perception of What Constitutes Reasonable Use of Force\n\n\n\n\n\nDoes an officer’s use of profanity affect how the public responds and reacts to a use of force incident? This study examines two scenarios that show excessive language or a lack of language. The results from 234 responses show that the people considered the exact same video with excessive language to be less reasonable. Possible policy discussions are included due to police officer language can affect civilian perception.\n\nPolice Quarterly\n\nView the article here.\n\n\n\n\n\n2021\n\n\n\n\n\n\nWomen Demonstrate Lower Markers of Stress and Oxidative Stress During Active Shooter Training Drill\n\n\n\n\n\nPolice frequently engage in high-stress situations that increase a variety of physiological and psychological stress markers. The current study examined differences in male and female salivary and blood markers of stress in response to an active shooter training drill that involved professional actors playing the role of one gunman and four victims. Thirty-one participants took part in the training drill. Blood and saliva samples were collected prior to and following the 50-second training drill. Results revealed increases in stress levels for both male and female participants. However, four of the seven stress markers were lower in female participants compared to male participants.\n\nComprehensive Psychoneuroendocrinology\n\nView the article here.\n\n\n\n\n\n\n\n\n\nImproving the Accuracy of Firearm Identification in a Dynamic Use of Force Scenario\n\n\n\n\n\nUse-of-force decisions must often be made in a matter of seconds (or less). The presence of a weapon may impact this decision-making process. Therefore, the speed and accuracy of weapon identification is especially important in use-of-force scenarios. The current study examined whether a brief vision-training program could increase the speed and accuracy in which participants identify an object as a gun in a use-of-force scenario. Results revealed that the participants who received the training were about 16 percent faster and made about 33 percent less errors when identifying the object compared to the participants who did not receive the training. These findings suggest that a simple vision-training program can significantly improve participants’ ability to correctly identify the presence of a firearm in a dynamic use-of-force scenario.\n\nPolice Quarterly\n\nView the article here.\n\n\n\n\n\n\n\n\n\nAn Evaluation of Light Positioning on Suspect Accuracy in Low Light Environments\n\n\n\n\n\nPolice are sometimes required to conduct searches for hostile suspects in low light conditions. Police with routinely use a flashlight to help with their search. This study evaluated three of the most commonly taught flashlight tactics to assess if any could reduce the likelihood of a police officer being shot by a hostile suspect. Ultimately, the study found the Dagger technique reduced the likelihood that participants playing the role of a hostile suspect would successfully shoot the officer in a controlled setting.\n\nJustice Evaluation Journal\n\nView the article here.\n\n\n\n\n\n\n\n\n\n“Shots Fired! We Have Many People Down!”: Common Recommendations for Managing High-Casualty Active Shooter Events in the USA\n\n\n\n\n\nResponses to active shooter events in our communities have continued to improve over the years. First responder organizations have used training to be better prepared for these disasters. Yet, there are still problems that can arise when responding. The purpose of this study is to analyze the recommendations given in after-action reports of these high-casualty active shooter events to try and identify improvements that can be made by first responders. Three main points are identified and discussed on a more effective response to these events.\n\nInternational Journal of Disaster Risk Reduction\n\nView the article here.\n\n\n\n\n\n2020\n\n\n\n\n\n\nA Scientific Examination of the 21-Foot Rule\n\n\n\n\n\nThe 21-foot rule is taught in training across the country to police officers as either a) the minimum distance that a suspect can cross and attack an officer with a knife before the officer can draw and fire his or her weapon, or b) a safe distance to deal with potentially dangerous suspects armed with knives. This article reports the results of four studies designed to test the adequacy of the 21-foot rule in practice. Results do not support the idea that 21 feet is a safe distance for an officer to stop a charging suspect. Further, having officers move while drawing and firing their weapon, as opposed to remaining stationary, may increase officer safety in these situations.\n\nPolice Practice and Research\n\nView the article here.\n\n\n\n\n\n\n\n\n\nCorrelates of the Number Shot and Killed in Active Shooter Events\n\n\n\n\n\nAlthough there has been much research on various aspects of active shooter events, little attention has been given to the factors related to the number of people shot or killed in such events. The current study explored these factors. Results generally revealed that as the number of weapons brought to the scene increased, the number of people shot also increased, and this effect was larger for the number of rifles compared to other weapons. Weapon type and number had a smaller impact on the number of people killed than on the number of people shot. Schools were estimated to have one to two fewer people shot than other location types. Further, more recent attacks were estimated to have about one fewer person shot and one fewer person killed. Lastly, events in which potential victims stopped the attacker had the fewest estimated number of people shot.\n\nHomicide Studies\n\nView the article here.\n\n\n\n\n\n\n\n\n\nActive Shooter Training Drill Increases Blood and Salivary Markers of Stress\n\n\n\n\n\nPolice often encounter high-stress situations, such as high-speed chases and other suspect conflicts. The current study examined changes in salivary and blood markers of stress in response to an active shooter training drill. Thirty-one participants took part in the training drill, which included professional actors playing the role of one gunman and four victims. Blood and saliva samples were collected from participants prior to and following the 50-second training drill. Results suggest that a short duration active shooter training drill can increase both blood and salivary marker of stress.\n\nInternational Journal of Environmental Research and Public Health\n\nView the article here.\n\n\n\n\n\n2019\n\n\n\n\n\n\nThe Evolution of Active Shooter Response Training Protocols Since Columbine: Lessons From the Advanced Law Enforcement Rapid Response Training Center\n\n\n\n\n\nThe Columbine High School shooting that occurred on April 20, 1999 changed how law enforcement prepare for active attacks. Training centers were created in response to the need for this specific type of training, including the Advanced Law Enforcement Rapid Response Training (ALERRT) Center, which was formed in 2002 and named the national standard in active shooter training by the Federal Bureau of Investigation (FBI) in 2013. Since then, ALERRT has trained over 130,000 first responders from over 9,000 agencies. The current article describes how active shooter training has changed in the wake of the Columbine shooting.\n\nJournal of Contemporary Criminal Justice\n\nView the article here.\n\n\n\n\n\n\n\n\n\nPeek or Push: An Examination of Two Types of Room Clearing Tactics for Active Shooter Event Response\n\n\n\n\n\nSolo officer response has become a new trend in active shooter response. The current study evaluates two commonly taught solo officer techniques (the peek and the push) for clearing rooms to determine whether the technique affects the shooting accuracy of the suspect. During a peek entry, the officer keeps as much of his or her body in the hallway, allowing only the head, shoulders, arms, and weapon into the room. Conversely, the officer enters completely into the room when conducting a push entry. An experiment was conducted with 165 student participants playing the role of the suspect. Armed with a training pistol, participants were randomly assigned to a room entry with an officer using either the peek or push technique. Findings suggest limited differences in suspect shooting accuracy between the peek vs. push method of room entry, although officers in the peek condition were moderately more likely to be shot in the head with the training pistols. Findings also suggest that suspects in the push entry are more likely to shoot before the officer than suspects in the peek entry.\n\nSAGE Open\n\nView the article here.\n\n\n\n\n\n2017\n\n\n\n\n\n\nActive-Shooter Events in the Workplace: Findings and Policy Implications\n\n\n\n\n\n\nThe current article provides an in-depth examination of 105 active shooter events (ASEs) in the workplace that occurred from 2000-2015, which include three main categories: factories and warehouses (26), offices (29), and retail locations (50). Overall, 619 people were shot, and 282 people were killed in ASEs at businesses during this period. Attacks were more likely to occur during standard business hours, with a spike at 7pm. In all but two cases, the ASE involved a single shooter. Most (55%) of the events ended before police arrival. By contrast, 45 percent of the ASEs ended after police arrival. To promote a safe work environment, business owners and management may consider (1) utilizing a systematic strategy to detect, assess, and manage individuals that may pose a threat to others (threat assessment), (2) training employees how to respond effectively to ASEs, and (3) making physical security changes to buildings (access control).\nView the article here.\n\n\n\n\n\n\n\n\n\nThrowing a Chair Could Save Officers’ Lives During Room Entries\n\n\n\n\n\nConducting building searches and room entries can place law enforcement officers in danger. The purpose of this study was to examine whether throwing everyday objects at suspects could improve officer safety by distracting the suspect. The study involved an experiment using 113 participants playing the role of a suspect hiding in the “blind” corner of a room facing the door. The research team member playing the officer either made a traditional room entry or had another team member throw a chair into the room before making the traditional room entry. Throwing a chair distracted the participant suspects by slowing down their reaction time, although it did not affect their shooting accuracy. In addition, about one third of participants fired at the chair before officers entered the room. If an officer must conduct a room entry, throwing a chair or other plainly visible object might save the officer’s life.\n\nInternational Journal of Police Science & Management\n\nView the article here.\n\n\n\n\n\n2011\n\n\n\n\n\n\nReasonableness and Reaction Time\n\n\n\n\n\nDecisions made by police officers are typically judged according to a reasonableness standard. This standard is based on what a well-trained, sensible officer would do in a particular situation. The current article used an experiment to assess the reasonableness of an officer’s response to an armed suspect using 30 participant “suspects” and 24 officers. Each officer in the experiment, with their gun drawn and aimed at a suspect, was presented with an armed suspect who was not initially aiming at the officer. The suspect either shot at the officer or surrendered. Reaction times were assessed, revealing that officers fired at the same time or later than the suspects 61 percent of the time. These results suggest that, in this scenario, officers cannot reasonably be expected to shoot before the suspect raises his or her gun and fires. Therefore, officers should avoid situations like the one depicted in the scenario, where they are without cover and distance when facing an armed suspect.\n\nPolice Quarterly\n\nView the article here.",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research Output"
+    ]
+  },
+  {
+    "objectID": "public_in_progress.html",
+    "href": "public_in_progress.html",
+    "title": "Research in Progress",
+    "section": "",
+    "text": "Below you will find brief descriptions of research projects that are in progress. For each entry, you will find a title, synopsis, status, and links to any additional information available for that project. Please note, we only list projects that the Research Ring is leading or majorly contributing to. We do not track projects team members collaborate on with other groups.\n\n\n“Deaths of Despair among Protective Service Occupations”\n\n\nSynopsis:\nThis project will assess the burden of deaths of despair across major protective service occupations (e.g., police, corrections, fire, EMS/paramedics) using large-scale administrative data.\n\n\nStatus:\n\n\n\n\n\n\n\n✓\n\n\nFormal analysis plan\n\n\n\n\n2\n\n\nExecute analysis\n\n\n\n\n3\n\n\nDraft manuscript\n\n\n\n\n4\n\n\nSubmit to journal\n\n\n\n\n5\n\n\nManuscript accepted\n\n\n\n\n\n\n\n\n“Box breathing and prolonged exhalation reduces markers of physiological stress reactivity in response to a virtual trier social stress test”\n\n\nSynopsis:\nThis randomized controlled trial examined the effects of two brief slow-breathing techniques on physiological and subjective stress responses in a sample of 66 participants exposed to a virtual Trier Social Stress Test (TSST). Compared to a normal breathing control group, both breathing interventions attenuated post-stressor increases in heart rate, state anxiety, and salivary alpha-amylase, indicating a buffering effect on acute sympathetic and psychological stress responses. These findings support the practical utility of ultra-short breathing interventions for stress mitigation, with potential relevance for high-stress occupations such as law enforcement, firefighting, and military service.\n\n\nStatus:\n\n\n\n\n\n\n\n✓\n\n\nFormal analysis plan\n\n\n\n\n✓\n\n\nExecute analysis\n\n\n\n\n✓\n\n\nDraft manuscript\n\n\n\n\n✓\n\n\nSubmit to journal\n\n\n\n\n5\n\n\nManuscript accepted\n\n\n\n\n\n\n\n\n“Moving Targets: Classification Drift and the Changing Profile of Active Shooter Events in the United States”\n\n\nSynopsis:\nThis project will examine longitudinal trends in active shooter incident resolutions using FBI data spanning 2000–2024, with a particular focus on whether the proportion of incidents ending with the attacker fleeing the scene has increased over time. Findings from this project will have direct implications for law enforcement training and operational preparedness, particularly as a growing share of active shooter responses may involve scene stabilization and suspect search operations rather than direct engagement.\n\n\nStatus:\n\n\n\n\n\n\n\n✓\n\n\nFormal analysis plan\n\n\n\n\n✓\n\n\nExecute analysis\n\n\n\n\n✓\n\n\nDraft manuscript\n\n\n\n\n4\n\n\nSubmit to journal\n\n\n\n\n5\n\n\nManuscript accepted\n\n\n\n\n\n\n\n\n“Examining Stress Habituation Across Repeated VR Scenario Exposures”\n\n\nSynopsis:\nThis project will examine the effects of repeated exposure to stressful virtual reality (VR) scenarios on acute physiological stress responses, with the aim of evaluating whether habituation occurs across multiple exposures. Participants will complete three separate scenario days using a VR system, with salivary biomarkers collected at each session to index acute stress reactivity. This study is being conducted in collaboration with the MAP Lab at Texas State University.\n\n\nStatus:\n\n\n\n\n\n\n\n✓\n\n\nFormal analysis plan\n\n\n\n\n2\n\n\nExecute analysis\n\n\n\n\n3\n\n\nDraft manuscript\n\n\n\n\n4\n\n\nSubmit to journal\n\n\n\n\n5\n\n\nManuscript accepted\n\n\n\n\n\n\n\n\n“Legal gun ownership and homicides in Brazil”\n\n\nSynopsis:\nThis study uses Bayesian multilevel models to analyze the association between legal gun ownership and homicide rates in Brazil. It used official data on firearm possession and licenses to carry rather than proxy measures. The results suggest that legal gun ownership is unlikely to be a significant driver of homicide rates. Preprint available on CrimRxiv.\n\n\nStatus:\n\n\n\n\n\n\n\n✓\n\n\nFormal analysis plan\n\n\n\n\n✓\n\n\nExecute analysis\n\n\n\n\n✓\n\n\nDraft manuscript\n\n\n\n\n4\n\n\nSubmit to journal\n\n\n\n\n5\n\n\nManuscript accepted\n\n\n\n\n\n\n\n\n“Calibration & validation of a police UoF assessment instrument”\n\n\nSynopsis:\nThis project draws on data from the final evaluations of a defensive tactics class involving over 2,000 Brazilian police recruits. The evaluation used a standard reality-based simulation of a domestic call and an instrument designed to assess police performance in use-of-force incidents. This study now explores, validates, and calibrates that instrument.\n\n\nStatus:\n\n\n\n\n\n\n\n✓\n\n\nFormal analysis plan\n\n\n\n\n2\n\n\nExecute analysis\n\n\n\n\n3\n\n\nDraft manuscript\n\n\n\n\n4\n\n\nSubmit to journal\n\n\n\n\n5\n\n\nManuscript accepted\n\n\n\n\n\n\n\n\n“What officers should be trained for? (Brazil)”\n\n\nSynopsis:\nThis project is a collaboration between U.S.-based scholars and Brazilian pracademics. It uses a mixed-methods approach, combining a national-level survey with over 20,000 responses, data from police reports from a Brazilian police department, and a focus group. Together, these sources are used to identify the use-of-force situations most commonly experienced by officers, the contextual factors that increase risk in those incidents, and other critical situations—all with the goal of informing police use-of-force training. Results will be compared with an ongoing parallel study being conducted with U.S. law enforcement.\n\n\nStatus:\n\n\n\n\n\n\n\n✓\n\n\nFormal analysis plan\n\n\n\n\n✓\n\n\nExecute analysis\n\n\n\n\n3\n\n\nDraft manuscript\n\n\n\n\n4\n\n\nSubmit to journal\n\n\n\n\n5\n\n\nManuscript accepted",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research in Progress"
+    ]
+  },
+  {
+    "objectID": "lexical_stowaways.html",
+    "href": "lexical_stowaways.html",
+    "title": "Lexical Stowaways",
+    "section": "",
+    "text": "Defugalty: an informal, often humorous, or intentional mispronunciation of the word “difficulty”.\n\n\nKludges: an ill-assorted collection of parts assembled to fulfill a particular purpose.",
+    "crumbs": [
+      "Resources",
+      "Lexical Stowaways"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nWelcome to the Research Ring\n",
+    "section": "",
+    "text": "Welcome to the Research Ring",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  },
+  {
+    "objectID": "index.html#research-at-the-heart-of-alerrt",
+    "href": "index.html#research-at-the-heart-of-alerrt",
+    "title": "\nWelcome to the Research Ring\n",
+    "section": "Research at the Heart of ALERRT",
+    "text": "Research at the Heart of ALERRT\nThe Research Ring is the research division of the ALERRT Center at Texas State University. We produce rigorous, evidence-based research to support the nation’s standard in active shooter response training — and to improve the health and operational capacity of first responders.",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "\nWelcome to the Research Ring\n",
+    "section": "Welcome",
+    "text": "Welcome\n\n\nThe Research Ring supports the mission of the ALERRT Center to “…provide the best research-based active shooter response training in the nation” by producing research and other resources.\nWithin the ALERRT Center, our mandate is to improve the lives and operational capacity of first responders through rigorous research and evaluation. Our research covers several topic areas:\n\nActive attack trends\nLaw enforcement training\nFirst responder health/wellness\nPublic/law enforcement opinion",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  },
+  {
+    "objectID": "index.html#active-attacks",
+    "href": "index.html#active-attacks",
+    "title": "\nWelcome to the Research Ring\n",
+    "section": "Active Attacks",
+    "text": "Active Attacks\n\n\nAt its core, the ALERRT Center is focused on preparing law enforcement and other first responders to respond to active attacks. Understanding the trends and commonalities between active attacks and how they change over time is critically important to this effort. The Research Ring maintains a database of active attacks that have occurred in the United States since 2000. We also host the website, ActiveAttackData.org, to make that database publicly accessible. Visitors will find resources (static/interactive plots, maps, etc.) that unpack the data. Or visitors can download the data directly from the website as well. All of the media is downloadable and free to use.\n\n\n\n\n\n\nClick to visit ActiveAttackData.org",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  },
+  {
+    "objectID": "index.html#tactical-science",
+    "href": "index.html#tactical-science",
+    "title": "\nWelcome to the Research Ring\n",
+    "section": "Tactical Science",
+    "text": "Tactical Science\n\n\nTactical Science is a Substack written by Pete Blair, Director of the ALERRT Center. Pete writes about police training research — including work coming out of the Research Ring — as well as findings from other corners of the training science world. His posts cover topics like training methodology, ecological dynamics, the constraints-led approach, and the broader culture and practice of law enforcement training. If you want the research translated into something you can actually use, this is the place to start.\n\n\n\n\n\n\nClick to visit the Tactical Science Substack",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  },
+  {
+    "objectID": "index.html#news-updates",
+    "href": "index.html#news-updates",
+    "title": "\nWelcome to the Research Ring\n",
+    "section": "News & Updates",
+    "text": "News & Updates\n\n\n\nJuly 1, 2026\n\nHunter and Peter awarded RGVRC grant to study Extreme Risk Protection Order effects on firearm suicide\n\n\n\nMay 20, 2026\n\nJoe and Pete Blair present at ASEBP in DC; Joe recognized as Evidence Based Policing Trailblazer\n\n\n\nMay 20, 2026\n\nHunter and team publish SIA-funded report on door locks in K–12 school shootings\n\n\n\nMay 20, 2026\n\nHunter and team’s SIA-funded school shooting study covered by Business Insider\n\n\n\nApril 16, 2026\n\nPeter presents LEO mortality findings at PERF annual meeting in Los Angeles\n\nView all media →",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  },
+  {
+    "objectID": "public_grants.html",
+    "href": "public_grants.html",
+    "title": "Grants",
+    "section": "",
+    "text": "ALERRT’s programmatic and research work is supported by competitive grants from federal agencies, industry partners, and university programs. Below you’ll find current and past awards. For each entry we provide a brief synopsis and, where applicable, links to deliverables produced under the award.",
+    "crumbs": [
+      "Home",
+      "Grants"
+    ]
+  },
+  {
+    "objectID": "public_grants.html#current-awards",
+    "href": "public_grants.html#current-awards",
+    "title": "Grants",
+    "section": "Current Awards",
+    "text": "Current Awards\n\n\nExtreme Risk Protection Orders and Firearm Suicide in New York: A Multi-State and Within-State Evaluation\n\nFunder: Regional Gun Violence Research Consortium  ·  Year: 2026  ·  Amount: $49,999\nPI: Hunter Martaindale  ·  Co-PI: Peter Tanksley\n\n\nSynopsis\nFirearm suicide accounts for the majority of firearm deaths in the United States, yet rigorous evidence on whether Extreme Risk Protection Orders (ERPOs), civil court orders that temporarily remove firearm access from people at acute risk of harm, actually reduce it remains limited, and most prior work predates New York’s law. This project evaluates New York’s ERPO law through two complementary quasi-experimental analyses: a multi-state staggered difference-in-differences design estimating the effect of ERPO adoption on firearm suicide rates across all U.S. states from 2010 to 2024, and a within-New York fixed-effects panel testing whether counties with higher ERPO petition rates show lower firearm suicide rates across the state’s 62 counties. Together the analyses assess both whether the law matters and whether how actively it is used matters, producing findings to inform New York legislators, the Division of Criminal Justice Services, and county-level implementers on ERPO resource allocation and potential expansion.\n\n\n\n\nPreparing for Active Shooter Situations (PASS)\n\nFunder: COPS Office  ·  Year: 2025  ·  Amount: $10,200,000\nPI: Pete Blair  ·  Co-PIs: John Curnutt, Hunter Martaindale\n\n\nSynopsis\nThe PASS program — established under the 2016 Protecting Our Lives by Initiating COPS Expansion (POLICE) Act — funds a single national provider to deliver scenario-based, multi-disciplinary active-shooter response training at no cost to law enforcement, fire, and emergency medical services across the United States. ALERRT has held this award continuously since 2017, building on its 2013 designation by the FBI as the National Standard in Active Shooter Response Training. The 2025 award supports another year of nationwide course delivery, including the integrated, multi-disciplinary courses that prepare patrol officers, fire personnel, and EMS providers to coordinate during active-attack response. See Past Awards below for the program’s full funding history.\n\n\nDeliverables\nPASS is principally a training delivery program; however, peer-reviewed research conducted with PASS support is included among the entries on the Research Output page.",
+    "crumbs": [
+      "Home",
+      "Grants"
+    ]
+  },
+  {
+    "objectID": "public_grants.html#past-awards",
+    "href": "public_grants.html#past-awards",
+    "title": "Grants",
+    "section": "Past Awards",
+    "text": "Past Awards\n\nPreparing for Active Shooter Situations (PASS)\n\nFunder: COPS Office  ·  Cumulative amount: $72,208,987  ·  Years: 2017–2024\nPI: Pete Blair  ·  Co-PIs: John Curnutt, Hunter Martaindale\n\nPASS has been continuously funded by the COPS Office since 2017, supporting nationwide active-shooter response training for law enforcement and other first responders. Cumulative funding across prior award years totals $72,208,987 (excludes the active 2025 award listed above).\nThe program is the COPS Office’s flagship vehicle for active-shooter response training, established under the 2016 POLICE Act. Each annual award funds a single national provider to deliver scenario-based, multi-disciplinary courses to law enforcement, fire, and EMS at no cost to the requesting agency. ALERRT has served as that provider every year since 2017, training more than 40,000 first responders per year through this program (annual counts vary somewhat year to year).\n\n\n\n\n\n\nAward history\n\n\n\n\n\n\n\n\nYear\nAmount\nAward #\n\n\n\n\n2024\n$10,400,000\n15JCOPS-22-GK-01690-PASS\n\n\n2023\n$10,958,667\n15JCOPS-22-GK-01690-PASS\n\n\n2022\n$9,790,000\n—\n\n\n2021\n$9,790,000\n15JCOPS-21-GK-02120-SPAS\n\n\n2020\n$8,494,893\n2020ASWXK001\n\n\n2019\n$8,674,999\n2019ASWXK001\n\n\n2018\n$8,707,899\n2018ASWXK001\n\n\n2017\n$5,392,529\n2017ASWXK001\n\n\n\nPI: Pete Blair · Co-PIs: John Curnutt, Hunter Martaindale (all years)\n\n\n\n\nDeliverables\nPASS is principally a training delivery program (see scope figures above). Peer-reviewed research conducted with PASS support is catalogued among the entries on the Research Output page. Because PASS has funded the Center continuously since 2017 and publications often follow funding by several years, individual papers are not attributed to specific award cycles.\n\n\n\n\nAssessing the effectiveness of door locks in school-based active shooter events\n\nFunder: Security Industry Association  ·  Year: 2025  ·  Amount: $80,000\nPI: Hunter Martaindale\n\n\nSynopsis\nSchool-based active shooter incidents, though rare, remain among the most consequential forms of targeted violence in the United States. Door locks and access-control measures are routinely cited in school-safety guidance, yet systematic evidence on how they function during real-world incidents has been limited. This study examines the role of door locks and related physical security features in K–12 active shooter events between 2000 and 2025, drawing on 54 completed events (66 doors), four averted incidents, and two in-depth case studies (Robb Elementary and Evergreen High School). The resulting report describes patterns in door status, breach modes, and offers eight evidence-based recommendations for school administrators, security professionals, and policymakers.\n\n\nDeliverables\nThe Role of Locked Doors and Access Control in School-Based Active Shooter Events\n\n\n\n\nALERRT micro-learning video creation and evaluation\n\nFunder: Texas State University Research Accelerator Program  ·  Year: 2025  ·  Amount: $101,205\nPI: Hunter Martaindale\n\n\nSynopsis\nALERRT’s Level 1 course is the foundation of the Center’s active-shooter response training, but as with most one-time training, the operational benefit can decay over time. This project develops 20 short-form “microlearning” videos drawn from the Level 1 curriculum, paired with discussion guides that allow shift leaders to facilitate brief reinforcement conversations during roll call. The aim is to “microdose” ALERRT training, embedding key concepts in routine shift-change briefings rather than relying solely on the initial multi-day course. To evaluate the approach, we are running a study with agencies that have never received ALERRT training, comparing knowledge retention and performance under standard delivery versus the same delivery followed by sustained microlearning exposure.\n\n\nDeliverables\n\n20 Level 1 microlearning videos\nInstructor discussion guides for shift-leader-led roll-call sessions\n\n\n\n\n\nIntegrated ICS training for all first responders\n\nFunder: FEMA  ·  Year: 2023  ·  Amount: $621,971  ·  Award #: EMW-2022-FP-00779\nPI: Hunter Martaindale\n\n\nSynopsis\nAfter-action reports from recent active-attack incidents repeatedly underscore the importance of an effective Incident Command System (ICS). This project produced an eLearning course — the Active Attack Incident Management (AAIM) course — designed to enhance first responders’ skills and performance in using the NIMS ICS process during active attacks and other major critical incidents. The course covers command phases, zones of operation, command elements and terminology, interagency coordination and communication, transfers of command, Incident Command Posts, Area Command, and EOC operations. Developed with subject-matter-expert input and grounded in NIMS ICS principles and real-event research, the course awards 4 hours of ALERRT training credit upon completion.\n\n\nDeliverables\nSelf-paced eLearning course available on the ALERRT eLearning platform.\n\n\n\n\nFire as a Weapon (FAAW) In-Person and eLearning Training Opportunities\n\nFunder: FEMA  ·  Year: 2021  ·  Amount: $439,210  ·  Award #: EMW-2020-FP-00930\nPI: Hunter Martaindale\n\n\nSynopsis\nFire as a Weapon (FAAW) refers to the use of fire, smoke, or flammable materials in conjunction with other attack vectors — a tactic that confounds incident response and demands an integrated, multi-disciplinary response for stabilization. FAAW has been deployed in incidents ranging from Waco, TX (1993) and Mumbai, India (2008) to Ferguson, MO (2014–15) and Honolulu, HI (2020), as well as in many smaller events, and both the magnitude and frequency of these incidents continue to evolve. In partnership with the National Fire Protection Association (NFPA), this project produced an eLearning program that trains fire and law enforcement personnel to recognize and respond to FAAW events.\n\n\nDeliverables\nSelf-paced eLearning course available on the ALERRT eLearning platform.\n\n\n\n\nUnderstanding the leakage that precedes mass public shootings and its utility for prevention efforts through public awareness\n\nFunder: Department of Homeland Security  ·  Year: 2024  ·  Amount: $89,861 (subaward from $339,368 total)  ·  Award #: DHS-24-TTP-132-00-99\nExternal PI: Jaclyn Schildkraut (Rockefeller Institute of Government)  ·  Co-PIs: Hunter Martaindale, Emily Greene-Colozzi (UMass Lowell)\n\n\nSynopsis\nAlthough mass public shootings are statistically rare, they have been increasing in frequency and continue to affect communities across the United States. Research consistently finds that perpetrators broadcast their intentions in advance through dangerous communications — commonly referred to as “leakage” — yet these warning behaviors frequently go unreported. Led by the Rockefeller Institute of Government with subawards to Texas State University and the University of Massachusetts Lowell, this project develops and deploys public-awareness training that teaches K–12 students and staff, college audiences, and the general public how to recognize leakage and other pre-attack warning behaviors and how to report them through appropriate channels. Training content is grounded in an empirical analysis of leakage patterns identified across completed mass public shootings between 1999 and 2023.\n\n\nDeliverables\nWeb-based public-awareness training programs designed to teach audiences how to identify leakage and other pre-attack warning behaviors and how to report them. Audiences include K–12 students and staff, higher-education communities, and the general public.\n\n\n\n\nAdapting Commercial VR-Based Training to Support AFSOC Mission Sustainment Team Protection & Security Training Objectives\n\nFunder: SBIR/STTR  ·  Year: 2023  ·  Amount: $32,859 (subaward)  ·  Award #: FA864924P0116  ·  Phase: 1\nPI: Hunter Martaindale\n\n\nSynopsis\nAir Force Special Operations Command (AFSOC) Mission Sustainment Team (MST) airmen perform protection and security duties across an unusually wide range of environments — from airfield asset protection to interior spaces such as classrooms, residence halls, and cafeterias — that are difficult to replicate with conventional in-person scenario training. This Phase 1 STTR award supported a feasibility study examining how virtual-reality (VR) training, paired with adaptive-training concepts, could expand the breadth of environments AFSOC MST trainees experience while reducing trainer burden during scenario delivery. Working with the Street Smarts VR (SSVR) platform, the project produced a white paper describing how performance-based measurement, AI-driven classification, and adaptive logic could be layered onto existing VR scenarios to tailor difficulty and feedback to individual trainee performance.\n\n\nDeliverables\nPhase 1 white paper outlining an adaptive-training implementation plan for the SSVR platform. A Phase 2 proposal was subsequently submitted but not awarded.\n\n\n\n\nFirearm Detection Data\n\nFunder: NEC Corporation  ·  Year: 2020  ·  Amount: $10,000\nPI: Hunter Martaindale\n\n\nSynopsis\nNEC Corporation contracted with the ALERRT Center to use ALERRT’s range facilities to test a firearm-detection platform under development by NEC. ALERRT’s role was limited to providing range space and operational support for NEC’s testing activities; the project did not produce ALERRT-authored deliverables.",
+    "crumbs": [
+      "Home",
+      "Grants"
+    ]
+  },
+  {
+    "objectID": "public_media.html",
+    "href": "public_media.html",
+    "title": "Media & News",
+    "section": "",
+    "text": "This page collects Research Ring news, announcements, media appearances, and assets available for press use. For interview requests or other inquiries, use the contact form on the Work With Us page.",
+    "crumbs": [
+      "Home",
+      "Media & News"
+    ]
+  },
+  {
+    "objectID": "public_media.html#announcements",
+    "href": "public_media.html#announcements",
+    "title": "Media & News",
+    "section": "Announcements",
+    "text": "Announcements\n\nALERRT Research Ring · July 01, 2026\nNew Grant — Extreme Risk Protection Orders and Firearm Suicide in New York\nThe Research Ring has been awarded a grant from the Regional Gun Violence Research Consortium to study the effects of Extreme Risk Protection Orders (ERPOs) on firearm suicide in New York. The project, led by Hunter with Peter as co-PI, uses two complementary quasi-experimental approaches: a multi-state difference-in-differences design and a within-New York county-level panel analysis. See the full grant entry for details.\n\n\n\nAmerican Society of Evidence Based Policing Annual Conference · May 20, 2026\nASEBP Annual Conference — Washington, D.C.\nThe Research Ring traveled to Washington, D.C., for the American Society of Evidence Based Policing (ASEBP) Annual Conference (May 20–22, 2026). Joe presented Research Ring findings on striking versus grappling in law enforcement use-of-force, and ALERRT Director Pete Blair delivered a talk on ecological dynamics drawn from his recent article on ecological dynamics frameworks for police training design. Joe was also recognized by ASEBP as an Evidence Based Policing Trailblazer — an honor limited to 100 recipients worldwide — and received the Trailblazer coin at the conference. Congratulations, Joe!\n\n\n\n\n\n\n\n\n\nALERRT Research Ring · May 20, 2026\nThe Role of Locked Doors and Access Control in School-Based Active Shooter Events\nThe ALERRT Research Ring has published the final report from its SIA-funded study on door locks and physical access-control measures in K–12 active shooter events. Drawing on 54 completed events between 2000 and 2025, four averted incidents, and case studies of Uvalde (2022) and Evergreen High School (2025), the report finds that noncompliance — not hardware failure — is the dominant failure mode: 61.7% of doors involved in attacks were unlocked or propped open at the time of the incident. The report concludes with eight evidence-based recommendations for school administrators, security professionals, and policymakers.\n\n\n\nPolice Executive Research Forum (PERF) Annual Meeting · April 16, 2026\nA national-level assessment of LEO mortality\nPeter presented major findings from the Research Ring’s law enforcement mortality study, published in Lancet Regional Health — Americas, at the PERF Annual Meeting in Los Angeles, CA. The talk was delivered alongside Research Ring collaborator Ian Adams (University of South Carolina).\n\n\n\n\n\n\n\n\nISC West (International Security Conference & Exposition) · March 23, 2026\nSecured Doors Save Lives: Research on School-Based Active Shooter Events\nHunter, Jack, and Joe presented findings from the Research Ring’s SIA-funded study on door locks in school-based active shooter events at ISC West (International Security Conference & Exposition) in Las Vegas, NV (March 23–27, 2026). Their talk, “Secured Doors Save Lives: Research on School-Based Active Shooter Events,” examined how physical security features — particularly door locks and access-control measures — affected outcomes across 54 K–12 shooting incidents. The same presentation will be given at the DHI Annual Conference (Door and Hardware Institute) in Nashville, TN, May 27–29.\n\n\n\nInternational Association of Chiefs of Police (IACP) Annual Conference · October 21, 2025\nLeading Causes of Death Among Law Enforcement Occupations: New Evidence from the National Occupational Mortality Surveillance Data\nPeter presented findings from the Research Ring’s law enforcement mortality study, published in Lancet Regional Health — Americas, at the IACP Annual Conference in Denver, CO (October 21, 2025). The talk drew on data from the CDC’s National Occupational Mortality Surveillance (NOMS) system to identify the leading causes of death across all law enforcement occupations from 2020 to 2023, calculate national-level cause-specific mortality rates, and compare those rates with other first responder occupations and the general population. The findings were used to offer policy recommendations for officer health and wellness programs.",
+    "crumbs": [
+      "Home",
+      "Media & News"
+    ]
+  },
+  {
+    "objectID": "public_media.html#in-the-news",
+    "href": "public_media.html#in-the-news",
+    "title": "Media & News",
+    "section": "In the News",
+    "text": "In the News\n\nBusiness Insider · May 20, 2026\nTexas State University’s ALERRT Center Releases Groundbreaking Research on Active Shooter Events in Schools\nPress coverage of the Research Ring’s SIA-funded report on door locks and access control in K–12 active shooter events. Hunter Martaindale, director of research at ALERRT and lead researcher on the report, is quoted: “Nearly two-thirds of the doors in our dataset were unlocked or propped open at the moment of attack. The hardware only protects students, teachers and staff when it is consistently used.” \n\n\nSpectrum News 1 · January 01, 2026\nStudy finds police officers face higher long-term health risks than general population\nFeatures J.C. Barnes (University of Cincinnati), co-author of the ALERRT-led officer mortality study published in The Lancet Regional Health — Americas. The study analyzed over 15,000 law enforcement officer deaths, finding that officers face elevated long-term health risks from heart disease, cancer, and suicide compared to the general population.",
+    "crumbs": [
+      "Home",
+      "Media & News"
+    ]
+  },
+  {
+    "objectID": "public_media.html#podcasts-interviews",
+    "href": "public_media.html#podcasts-interviews",
+    "title": "Media & News",
+    "section": "Podcasts & Interviews",
+    "text": "Podcasts & Interviews\n\nTexas State University Media · March 20, 2026\nAdvanced Law Enforcement Rapid Response Training (ALERRT) at TXST\nA short-form feature from Texas State University highlighting the ALERRT Center and its rapid response training mission. [Watch on YouTube]\n\n\nPolicing Matters Podcast (Police1) · December 17, 2025\nCan VR training create real stress for real-world police decisions?\nHunter Martaindale discusses ALERRT Center research examining whether virtual reality scenarios can trigger stress responses comparable to live training, and where VR can — and can’t — replace hands-on physical skills training. [Listen]\n\n\nTrainer’s Bullpen · Episode 39 · October 15, 2024\nVR Training Elicits Similar Stress Response as Scenario-Based Training\nHunter Martaindale discusses research findings showing that virtual reality-based training produces stress responses comparable to traditional scenario-based training — with implications for how agencies can use VR to prepare officers for high-stakes situations. [Watch on YouTube]",
+    "crumbs": [
+      "Home",
+      "Media & News"
+    ]
+  },
+  {
+    "objectID": "public_reports.html",
+    "href": "public_reports.html",
+    "title": "Books, Book Chapters, and Reports",
+    "section": "",
+    "text": "Below are books, book chapters, and public reports produced by members of the ALERRT Research Ring.",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Books, Book Chapters, and Reports"
+    ]
+  },
+  {
+    "objectID": "public_reports.html#books",
+    "href": "public_reports.html#books",
+    "title": "Books, Book Chapters, and Reports",
+    "section": "Books",
+    "text": "Books\n\nThe Chain of Survival: Responding to an Active Attack\n\n\nBlair, J. P., & Martaindale, M. H. (2024). The Chain of Survival: Responding to an Active Attack. TPPP, LLC.\nThis book presents a five-link framework for improving responses to active attack events, covering civilian response, law enforcement response, stabilization, transport, and definitive care. Drawing on resilience engineering theory and operational experience, the authors equip both civilians and first responders with strategies to anticipate, monitor, and respond effectively to attacks with the goal of minimizing casualties.\n\n\n\n\n\n\nClick image to view on Amazon\n\n\n\n\n\n\n\nActive Shooter Events and Response\n\n\nBlair, J. P., Nichols, T., Burns, D., & Curnutt, J. R. (2013). Active Shooter Events and Response. CRC Press LLC.\nThis textbook provides a comprehensive examination of active shooter events in the United States from 2000 to 2010, covering the historical context of these incidents, their increasing complexity, and how law enforcement response has evolved. Topics include event preparation, stopping the killing, room entry and threat confrontation, and civilian response — drawing on ALERRT’s extensive training and research experience.\n\n\n\n\n\n\nClick image to view on publisher’s website\n\n\n\n\n\n\n\nEvaluating Police Tactics: An Empirical Assessment of Room Entry Techniques\n\n\nBlair, J. P., & Martaindale, M. H. (2013). Evaluating police tactics: an empirical assessment of room entry techniques. Elsevier.\nBased on five experiments conducted over two years, this work challenges conventional wisdom about police room entry tactics by systematically assessing current philosophies and techniques. It offers evidence-based recommendations for how patrol officers can safely and effectively enter scenes of ongoing violence, locate a shooter, and stop the threat.\n\n\n\n\n\n\nClick image to view on publisher’s website",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Books, Book Chapters, and Reports"
+    ]
+  },
+  {
+    "objectID": "public_reports.html#book-chapters",
+    "href": "public_reports.html#book-chapters",
+    "title": "Books, Book Chapters, and Reports",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nActive Shooter/Hostile Event Overview (Data)\n\n\nMartaindale, M. H. (2021). Active Shooter/Hostile Event Overview (Data). In Introduction to Active Shooter/Hostile Event Response. Fire Protection Publications, Oklahoma State University.\nThis chapter provides a data-driven overview of active shooter and hostile event incidents in the United States, drawing on the ALERRT Center’s comprehensive event database. It contextualizes the scope, nature, and trends of these events to inform the training and response frameworks presented throughout the volume.\n\n\n\n\n\n\nClick image to view on Amazon",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Books, Book Chapters, and Reports"
+    ]
+  },
+  {
+    "objectID": "public_reports.html#reports",
+    "href": "public_reports.html#reports",
+    "title": "Books, Book Chapters, and Reports",
+    "section": "Reports",
+    "text": "Reports\n\nThe Role of Locked Doors and Access Control in School-Based Active Shooter Events (2026)\n\n\nFunded by the Security Industry Association (SIA) and prepared by the ALERRT Center at Texas State University, this report examines how door locks and physical access-control measures function in real-world K–12 school shootings. Drawing on 54 completed active shooter events between 2000 and 2025, four averted incidents, and structured case studies of Uvalde (2022) and Evergreen High School (2025), the study finds that noncompliance — not hardware failure — is the dominant failure mode: 61.7% of doors involved in attacks were unlocked or propped open at the time of the incident. Glass is identified as the primary point of mechanical vulnerability, and threat profiles differ meaningfully by school level, pointing to distinct security priorities for elementary versus secondary schools. The report concludes with eight evidence-based recommendations for improving physical security in K–12 settings.\n\n\n\n\n\n\nClick image to view report\n\n\n\n\n\n\n\nRobb Elementary School, Uvalde, Texas — After Action Report (2022)\n\n\nFollowing the 2022 attack at Robb Elementary School in Uvalde, Texas, the ALERRT Center produced an after action report documenting all key details of the attack and the law enforcement response. The report also provided recommendations for preventing such attacks and improving response effectiveness in the future.\n\n\n\n\n\n\nClick image to view report",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Books, Book Chapters, and Reports"
+    ]
+  },
+  {
+    "objectID": "public_staff.html",
+    "href": "public_staff.html",
+    "title": "People",
+    "section": "",
+    "text": "Hunter is the Director of Research at the ALERRT Center. His research focuses on active shooter and threat response, police training evaluation, use of force, and law enforcement and public opinion survey methodology. He holds a doctorate in criminal justice and criminology from Texas State University. His work has been published in scholarly journals including the Journal of Experimental Criminology, Police Quarterly, and the Journal of Criminal Justice.\n\nFun facts about Hunter:\n\nHe makes Neapolitan-style pizza at home and has strong unprompted opinions about proper dough hydration levels — in his defense, he calls it “pie,” which makes it sound much more sophisticated\nHe nerds out on microcontrollers and single-board computers in the name of home automation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeter is a research scientist at the ALERRT Center. He works on topics like officer health and wellness, public and law enforcement opinion, and police training evaluation. His interests include applied statistical analysis, data visualization, and researching first responders from a public health perspective. He holds a doctorate in criminal justice from the University of Cincinnati and he completed a postdoctoral fellowship at the University of Texas at Austin where he studied social science genomics/epigenetics. His work has been published in scholarly journals like the Journal of Experimental Criminology, PLoS ONE, and The Lancet Regional Health - Americas.\n\nFun facts about Peter:\n\nHe judges people by whether or not they have seen (and are avid fans of) the Lord of the Rings trilogy directed by Peter Jackson\nHe is the worst Cards Against Humanity player ever\nHe is the third Pete/Peter at ALERRT (and thus is completely redundant)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJack is a Research Associate at the ALERRT Center, where he supports a variety of projects by providing data analysis, creating visualizations, and facilitating the use of technologies such as virtual reality and eye tracking. He is currently pursuing a Master’s degree in Criminal Justice & Criminology at Texas State University. His work has been published in scholarly outlets including Applied Police Briefings, the American Journal of Criminal Justice, and the Journal of Criminal Justice.\n\nFun facts about Jack:\n\nHe can solve a Rubik’s cube\nHe likes to build computers\nHe likes to game on said computers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoe is a research associate at the ALERRT Center. His work focuses on police training, use of force, and other topics related to frontline policing. He favors primary data collection, usually through experimental designs in simulated environments. Joe holds a master’s in psychology from the Federal University of Paraná (Brazil) and is a Ph.D. student in criminal justice at Texas State University. Before joining ALERRT, he served as a captain with a state police department in Brazil, where he contributed to major reforms in defensive tactics training and conducted several practice-driven research projects. His work has been published in the Journal of Criminal Justice, Women & Criminal Justice, the Journal of Motor Learning and Development, and the Brazilian Journal of Public Safety.\n\nFun facts about Joe:\n\nHe’s not fun at all. His idea of fun would bore most people to death.\nLike most cops, he’s coffee-addicted, skeptical about humankind in general and speaks sarcasm as a first language.\nHe’s a Brazilian jiu-jitsu black belt and won two world championships in lower rank divisions.\nHe enjoys cooking and barbecuing. His stereotypes stop at Brazilian jiu-jitsu and Brazilian barbecue—Brazilian waxing is where he draws the line.\nHe likes military history.",
+    "crumbs": [
+      "Home",
+      "People"
+    ]
+  },
+  {
+    "objectID": "public_staff.html#research-ring",
+    "href": "public_staff.html#research-ring",
+    "title": "People",
+    "section": "",
+    "text": "Hunter is the Director of Research at the ALERRT Center. His research focuses on active shooter and threat response, police training evaluation, use of force, and law enforcement and public opinion survey methodology. He holds a doctorate in criminal justice and criminology from Texas State University. His work has been published in scholarly journals including the Journal of Experimental Criminology, Police Quarterly, and the Journal of Criminal Justice.\n\nFun facts about Hunter:\n\nHe makes Neapolitan-style pizza at home and has strong unprompted opinions about proper dough hydration levels — in his defense, he calls it “pie,” which makes it sound much more sophisticated\nHe nerds out on microcontrollers and single-board computers in the name of home automation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeter is a research scientist at the ALERRT Center. He works on topics like officer health and wellness, public and law enforcement opinion, and police training evaluation. His interests include applied statistical analysis, data visualization, and researching first responders from a public health perspective. He holds a doctorate in criminal justice from the University of Cincinnati and he completed a postdoctoral fellowship at the University of Texas at Austin where he studied social science genomics/epigenetics. His work has been published in scholarly journals like the Journal of Experimental Criminology, PLoS ONE, and The Lancet Regional Health - Americas.\n\nFun facts about Peter:\n\nHe judges people by whether or not they have seen (and are avid fans of) the Lord of the Rings trilogy directed by Peter Jackson\nHe is the worst Cards Against Humanity player ever\nHe is the third Pete/Peter at ALERRT (and thus is completely redundant)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJack is a Research Associate at the ALERRT Center, where he supports a variety of projects by providing data analysis, creating visualizations, and facilitating the use of technologies such as virtual reality and eye tracking. He is currently pursuing a Master’s degree in Criminal Justice & Criminology at Texas State University. His work has been published in scholarly outlets including Applied Police Briefings, the American Journal of Criminal Justice, and the Journal of Criminal Justice.\n\nFun facts about Jack:\n\nHe can solve a Rubik’s cube\nHe likes to build computers\nHe likes to game on said computers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoe is a research associate at the ALERRT Center. His work focuses on police training, use of force, and other topics related to frontline policing. He favors primary data collection, usually through experimental designs in simulated environments. Joe holds a master’s in psychology from the Federal University of Paraná (Brazil) and is a Ph.D. student in criminal justice at Texas State University. Before joining ALERRT, he served as a captain with a state police department in Brazil, where he contributed to major reforms in defensive tactics training and conducted several practice-driven research projects. His work has been published in the Journal of Criminal Justice, Women & Criminal Justice, the Journal of Motor Learning and Development, and the Brazilian Journal of Public Safety.\n\nFun facts about Joe:\n\nHe’s not fun at all. His idea of fun would bore most people to death.\nLike most cops, he’s coffee-addicted, skeptical about humankind in general and speaks sarcasm as a first language.\nHe’s a Brazilian jiu-jitsu black belt and won two world championships in lower rank divisions.\nHe enjoys cooking and barbecuing. His stereotypes stop at Brazilian jiu-jitsu and Brazilian barbecue—Brazilian waxing is where he draws the line.\nHe likes military history.",
+    "crumbs": [
+      "Home",
+      "People"
+    ]
+  },
+  {
+    "objectID": "public_staff.html#alumni",
+    "href": "public_staff.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\nPete Blair, Texas State University\nWilliam “Bill” Sandel, Missouri State University\nMadison Doyle, Austin Police Department\nElizabeth “Beth” Quinby, Clarke University",
+    "crumbs": [
+      "Home",
+      "People"
+    ]
+  },
+  {
+    "objectID": "public_staff.html#collaborators",
+    "href": "public_staff.html#collaborators",
+    "title": "People",
+    "section": "Collaborators",
+    "text": "Collaborators\nIan Adams, University of South Carolina\nJ.C. Barnes, University of Cincinnati\nAndrew Gonzalez, Sam Houston State University\nMatthew Logan, Texas State University\nSteven Martin, Texas A&M University\nMatthew McAllister, Texas State University\nJaclyn Schildkraut, Rockefeller Institute of Government",
+    "crumbs": [
+      "Home",
+      "People"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html",
+    "href": "r_quarto_custom_domain.html",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "",
+    "text": "This guide covers connecting a custom domain to a Quarto website already published via GitHub Pages. By the end, your site will be reachable at your own domain (e.g., https://alerrtresearch.org) with HTTPS enforced.\nPrerequisite: A working Quarto site published to GitHub Pages. If you haven’t done that yet, see How to Publish a Quarto Website with GitHub Pages and Actions first.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#purchase-your-domains",
+    "href": "r_quarto_custom_domain.html#purchase-your-domains",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "1. Purchase Your Domains",
+    "text": "1. Purchase Your Domains\nWe use Namecheap. The recommended approach is to buy one primary domain and a few secondary domains that redirect to it — this covers common spelling variations and prevents someone else from squatting on them.\nExample setup for this site:\n\n\n\n\n\n\n\nDomain\nRole\n\n\n\n\nalerrtresearch.org\nPrimary — this is where the site actually lives\n\n\nalerrtresearch.com\nSecondary — redirects to primary\n\n\nalerrt-research.org\nSecondary — redirects to primary\n\n\nalerrt-research.com\nSecondary — redirects to primary\n\n\n\nYou only need to configure DNS in detail for the primary domain. The secondary domains just need URL forwarding enabled.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#configure-dns-on-your-primary-domain",
+    "href": "r_quarto_custom_domain.html#configure-dns-on-your-primary-domain",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "2. Configure DNS on Your Primary Domain",
+    "text": "2. Configure DNS on Your Primary Domain\nIn Namecheap, go to Dashboard → Manage (next to your primary domain) → Advanced DNS.\n\nA Records (required — four of them)\nAdd four A Records, all pointing the @ host to GitHub Pages’ IP addresses:\n\n\n\nType\nHost\nValue\n\n\n\n\nA Record\n@\n185.199.108.153\n\n\nA Record\n@\n185.199.109.153\n\n\nA Record\n@\n185.199.110.153\n\n\nA Record\n@\n185.199.111.153\n\n\n\nThese are GitHub Pages’ current IP addresses. They rarely change, but you can verify them in the GitHub Pages documentation.\n\n\nCNAME Record (required — www subdomain)\nAdd one CNAME Record:\n\n\n\nType\nHost\nValue\n\n\n\n\nCNAME Record\nwww\nyourorg.github.io\n\n\n\nReplace yourorg with your GitHub organization or username (e.g., alerrt-research.github.io). This makes www.yourdomain.org resolve correctly.\nNote: Namecheap may already have a CNAME for www pointing somewhere else — delete it and replace with yours.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#configure-url-forwarding-on-secondary-domains",
+    "href": "r_quarto_custom_domain.html#configure-url-forwarding-on-secondary-domains",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "3. Configure URL Forwarding on Secondary Domains",
+    "text": "3. Configure URL Forwarding on Secondary Domains\nFor each secondary domain, go to Dashboard → Manage → Redirect Domain (or find URL Redirect under Advanced DNS).\nSet up a 301 Permanent Redirect from each secondary domain to your primary:\n\nFrom: alerrtresearch.com → To: https://alerrtresearch.org\nFrom: alerrt-research.org → To: https://alerrtresearch.org\nFrom: alerrt-research.com → To: https://alerrtresearch.org\n\nUse https:// (not http://) in the destination so visitors land on the secure version.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#add-a-cname-file-to-your-project",
+    "href": "r_quarto_custom_domain.html#add-a-cname-file-to-your-project",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "4. Add a CNAME File to Your Project",
+    "text": "4. Add a CNAME File to Your Project\nIn your Quarto project root, create a file named exactly CNAME (no extension) containing only your primary domain:\nalerrtresearch.org\nNo trailing slash, no https://, just the bare domain.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#register-the-cname-file-in-_quarto.yml",
+    "href": "r_quarto_custom_domain.html#register-the-cname-file-in-_quarto.yml",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "5. Register the CNAME File in _quarto.yml",
+    "text": "5. Register the CNAME File in _quarto.yml\nQuarto needs to know to copy the CNAME file into the rendered _site/ output, otherwise it gets ignored during deployment.\nOpen _quarto.yml and add \"CNAME\" to the resources: list:\nproject:\n  type: website\n  resources:\n    - \"resources/\"\n    - \"CNAME\"\nIf resources: doesn’t exist yet under project:, add it.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#render-commit-and-push",
+    "href": "r_quarto_custom_domain.html#render-commit-and-push",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "6. Render, Commit, and Push",
+    "text": "6. Render, Commit, and Push\nquarto render\ngit add CNAME _quarto.yml _site/CNAME\ngit commit -m \"Add custom domain configuration\"\ngit push\nConfirm _site/CNAME appears in your rendered output before pushing — that’s the file GitHub Pages actually reads.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#configure-github-pages",
+    "href": "r_quarto_custom_domain.html#configure-github-pages",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "7. Configure GitHub Pages",
+    "text": "7. Configure GitHub Pages\n\nGo to your GitHub repository → Settings → Pages.\nUnder Custom domain, type your primary domain (e.g., alerrtresearch.org) and click Save.\nGitHub will run a DNS check. This may take a few minutes. Wait for a green confirmation message.\nOnce the DNS check passes, the Enforce HTTPS checkbox will appear — but it may still be grayed out. Do not panic. GitHub needs to provision a TLS certificate via Let’s Encrypt, which can take an additional 15–30 minutes even after the DNS check clears. The checkbox will become clickable on its own. If it’s still locked after an hour, then start troubleshooting.\nEnable Enforce HTTPS.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#verify",
+    "href": "r_quarto_custom_domain.html#verify",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "8. Verify",
+    "text": "8. Verify\n\nNavigate to https://alerrtresearch.org — site should load with a padlock (secure).\nNavigate to a secondary domain (e.g., https://alerrtresearch.com) — should redirect to the primary.\nNavigate to https://www.alerrtresearch.org — should also resolve correctly.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "r_quarto_custom_domain.html#tips-troubleshooting",
+    "href": "r_quarto_custom_domain.html#tips-troubleshooting",
+    "title": "Custom Domain Setup for GitHub Pages",
+    "section": "Tips & Troubleshooting",
+    "text": "Tips & Troubleshooting\nDNS propagation takes time. Changes can take anywhere from a few minutes to 48 hours to fully propagate. If the GitHub DNS check is pending, wait and try again later.\n“Enforce HTTPS” is grayed out. This means the DNS check hasn’t passed yet. Do not force it — just wait.\nSecondary domain redirects aren’t working. Namecheap’s URL redirect feature can be slow to propagate. Give it a few hours before troubleshooting.\nThe CNAME file keeps disappearing. You forgot step 5 — Quarto overwrites _site/ on every render. The CNAME must be listed under resources: in _quarto.yml or it won’t survive re-renders.\nGitHub Pages reverts to the .github.io URL. This happens if the CNAME file is missing from the deployed branch. Confirm _site/CNAME exists and was committed before pushing.\nGitHub DNS check is stuck or failing for the primary domain. Check whether you have a URL redirect (301 forward) set up in Namecheap for the primary domain itself — for example, a redirect from alerrtresearch.org or www.alerrtresearch.org pointing back to https://alerrtresearch.org. URL forwarding on the primary domain conflicts with the A Record / CNAME configuration that GitHub needs to perform its DNS check. URL forwarding is appropriate for secondary domains only. Remove any Namecheap redirect rules on the primary domain, leave only the A Records and CNAME Record in place, and the DNS check should clear.\n\nGuide based on setup completed for the ALERRT Research Ring website, May 2026.",
+    "crumbs": [
+      "Resources",
+      "Working with R",
+      "Custom Domain Setup for GitHub Pages"
+    ]
+  },
+  {
+    "objectID": "research_process_executing_a_proj.html",
+    "href": "research_process_executing_a_proj.html",
+    "title": "Executing a project",
+    "section": "",
+    "text": "All projects really get going when they get a dedicated directory. Start by setting up a new directory for the project in the “current projects” directory of the research drive on OneDrive. Always use “snake case” (e.g., project_example) when naming directories. Within the main project directory, there should be three subdirectories: analysis, manuscript, and docs.\n\n\nThis directory is where all the analysis files (e.g., code, data, results, figures) are going to be housed. Every analysis subdirectory should contain four additional subdirectories: 1) code, 2) input, 3) output, and 4) temp. All project code (e.g., an Rproj file, R scripts) is in “code” directory. All data required to conduct the analysis should be in the “input” directory. The “output” directory should contain two subdirectories, “results” and “figures”, for tabular/text-based and graphical results, respectively. The “temp” directory is meant to house all temporary, intermediate, or else incomplete results—only when results are considered final do they get assigned to an output directory.\n\n\n\nThis directory is where the manuscript is housed. The filename of the actual manuscript should simply be “manuscript” and should have no versioning in its name. The idea is to have the manuscript itself be a living document and to periodically create ‘freezes’ of it that can be used as a record when major changes are implemented (e.g., adding a new section). The main document itself should never actually change names, and no other version of the manuscript should be edited. Two subdirectories should be located here as well. First, the “archive” directory should contain all the ‘freezes’ (versioning of freezes is best achieved by appending the date [e.g., “_mm_dd_yy”] to the end of the manuscript filename [manuscript_01_29_26.docx]). Second, a “submissions” directory should contain individual subdirectories for each outlet the manuscript is submitted to. Name each subdirectory after the journal (e.g., jcj for Journal of Criminal Justice). After the manuscript is prepared for a submission, a submission-specific freeze should be saved in the appropriate submission directory. Each submission should be kept distinct within an outlet’s directory (e.g., a “journal_outlet” directory might contain subdirectories for “submission_1” and “submission_2” if the project received an R&R after its initial submission).\n\n\n\nThis directory contains all project files that are not directly used in the project analysis or manuscript write-up. At least two subdirectories should go here: “lit” for all the project-specific journal articles and “admin” for all the other documents needed to conduct the project (e.g., IRB, analysis plan/preregistration, informed consent, schedules). Additional subdirectories can be added as need. For example, a “media” subdirectory can house relevant media (e.g., videos) used for the project if needed.\nAfter setting up a project, you should have a file structure that looks like this:\n\nexample_proj\n├── analysis\n│   ├── code\n│   ├── input\n│   ├── output\n│   │   ├── figures\n│   │   └── results\n│   └── temp\n├── docs\n│   ├── admin\n│   └── lit\n└── manuscript\n    ├── archive\n    └── submissions\n\nAdd files as needed, but all projects should have that basic structure at its core. A template file structure is available in the current projects OneDrive folder.\n\n Download file structure template \n\nWhen creating a new project folder, copy and paste the template file structure into the new project folder so you do not have to create it from scratch.\nADD NOTE ABOUT ARCHIVE FOLDERS",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Executing a project"
+    ]
+  },
+  {
+    "objectID": "research_process_executing_a_proj.html#file-structure",
+    "href": "research_process_executing_a_proj.html#file-structure",
+    "title": "Executing a project",
+    "section": "",
+    "text": "All projects really get going when they get a dedicated directory. Start by setting up a new directory for the project in the “current projects” directory of the research drive on OneDrive. Always use “snake case” (e.g., project_example) when naming directories. Within the main project directory, there should be three subdirectories: analysis, manuscript, and docs.\n\n\nThis directory is where all the analysis files (e.g., code, data, results, figures) are going to be housed. Every analysis subdirectory should contain four additional subdirectories: 1) code, 2) input, 3) output, and 4) temp. All project code (e.g., an Rproj file, R scripts) is in “code” directory. All data required to conduct the analysis should be in the “input” directory. The “output” directory should contain two subdirectories, “results” and “figures”, for tabular/text-based and graphical results, respectively. The “temp” directory is meant to house all temporary, intermediate, or else incomplete results—only when results are considered final do they get assigned to an output directory.\n\n\n\nThis directory is where the manuscript is housed. The filename of the actual manuscript should simply be “manuscript” and should have no versioning in its name. The idea is to have the manuscript itself be a living document and to periodically create ‘freezes’ of it that can be used as a record when major changes are implemented (e.g., adding a new section). The main document itself should never actually change names, and no other version of the manuscript should be edited. Two subdirectories should be located here as well. First, the “archive” directory should contain all the ‘freezes’ (versioning of freezes is best achieved by appending the date [e.g., “_mm_dd_yy”] to the end of the manuscript filename [manuscript_01_29_26.docx]). Second, a “submissions” directory should contain individual subdirectories for each outlet the manuscript is submitted to. Name each subdirectory after the journal (e.g., jcj for Journal of Criminal Justice). After the manuscript is prepared for a submission, a submission-specific freeze should be saved in the appropriate submission directory. Each submission should be kept distinct within an outlet’s directory (e.g., a “journal_outlet” directory might contain subdirectories for “submission_1” and “submission_2” if the project received an R&R after its initial submission).\n\n\n\nThis directory contains all project files that are not directly used in the project analysis or manuscript write-up. At least two subdirectories should go here: “lit” for all the project-specific journal articles and “admin” for all the other documents needed to conduct the project (e.g., IRB, analysis plan/preregistration, informed consent, schedules). Additional subdirectories can be added as need. For example, a “media” subdirectory can house relevant media (e.g., videos) used for the project if needed.\nAfter setting up a project, you should have a file structure that looks like this:\n\nexample_proj\n├── analysis\n│   ├── code\n│   ├── input\n│   ├── output\n│   │   ├── figures\n│   │   └── results\n│   └── temp\n├── docs\n│   ├── admin\n│   └── lit\n└── manuscript\n    ├── archive\n    └── submissions\n\nAdd files as needed, but all projects should have that basic structure at its core. A template file structure is available in the current projects OneDrive folder.\n\n Download file structure template \n\nWhen creating a new project folder, copy and paste the template file structure into the new project folder so you do not have to create it from scratch.\nADD NOTE ABOUT ARCHIVE FOLDERS",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Executing a project"
+    ]
+  },
+  {
+    "objectID": "research_process_home.html",
+    "href": "research_process_home.html",
+    "title": "Ring Resources",
+    "section": "",
+    "text": "Hey there!\n\n\n\nYou’ve found the “ring-facing” content of the website. This area is meant for team members but anyone is welcome! Here you’ll find a wiki-style collections of articles written by team members for team members. The point of this area is to collect useful information, standardize research practices, and provide an easy “on-ramp” for any future team member of the Research Ring at ALERRT.",
+    "crumbs": [
+      "Resources",
+      "Ring Resources"
+    ]
+  },
+  {
+    "objectID": "research_process_home.html#standard-operating-procedures-for-research",
+    "href": "research_process_home.html#standard-operating-procedures-for-research",
+    "title": "Ring Resources",
+    "section": "Standard Operating Procedures (for Research)",
+    "text": "Standard Operating Procedures (for Research)\nEvery project is different. Much like the “Pirates Code”, everything set down in this document should be viewed “more like guidelines than actual rules.” However, unless there is a pretty compelling reason for deviating from the template provided below, don’t. Keeping a consistent set of S.O.P.s will ensure that every project we undertake will have strong interoperability. This is important in a lot of contexts (e.g., adding a new team member to a project, revisiting an old project), so stick to the plan. Or else…\nWhile every project is different, the projects that take up most of our time fall into one of two categories: research projects and grants (see the table below for a breakdown and examples).\n\nProject Types\n\n\n\n\n\n\nResearch Project\nGrant\n\n\n\n\nExperimental\n\nRandomized controlled trial\nSurvey experiment\n\nGovernment\n\nFederal (e.g., FEMA, NSF, NIH)\nState/Local\n\n\n\nObservational\n\nDescriptive analysis\nInferential analysis\n\nPrivate\n\nResearch\nIndustry (e.g., evaluation)\n\n\n\n\nIn the entries that follow, the approaches used by the Research Ring at ALERRT will be spelled out.",
+    "crumbs": [
+      "Resources",
+      "Ring Resources"
+    ]
+  },
+  {
+    "objectID": "research_process_working_with_a_team.html",
+    "href": "research_process_working_with_a_team.html",
+    "title": "Working with a team",
+    "section": "",
+    "text": "Authorship\nDiscuss author order and come up with said order from the beginning. It should be listed on the analysis plan so all contributors are aware of it. This includes ALERRT researchers and external collaborators. Authorship in RR projects requires substantive contribution. Every named author must have written portions of the document, conducted analyses, or developed plots, etc. Providing feedback does not constitute authorship, but those individuals should be listed in the acknowledgements.\n\n\nRoles\nRoles should be loosely laid out at the beginning of the project as well so each contributor knows what their time commitment will be. Generally, but not always, the lead author will serve as the project manager and ensure tasks are given an appropriate amount of time to complete. This role is vitally important so projects stay on task and avoid manuscript purgatory.\n\n\nCollaborative writing\nMore times than not writing a manuscript is a team sport. The RR should draft the manuscript using Quarto whenever possible. There are three different options for drafting the manuscript in Quarto.\n\nTrackdown (experimental)\nVersion Control\nLead author transfer from Word\n\nThe method chosen will depend on the makeup of the team. The RR is experimenting with using the Trackdown R package so external collaborators can make edits to a Google Doc version of the manuscript. If this is not available, the lead author will transfer text from a Word version of the manuscript.\n\n\nInternal peer review\nOnce the manuscript has been completed, the lead author should utilize an AI tool to conduct a “peer review” of the manuscript. The prompt should explicitly ask the AI tool to provide a critical review. There will be review items that do not apply, that is okay. The point is for the AI tool to point out logical gaps, structural issues, unclear results/discussion points, and so on to improve the manuscript prior to submission. The lead author will post the peer review in the “admin” subdirectory and let the appropriate team member know which comments to address.\n\n\nSharing results\nThe lead author should work with analysts to summarize and present results from a project to the wider RR team prior to the formal write-up. This gives the team the opportunity to understand how the analysis is proceeding and help shape how results are communicated in the manuscript by providing feedback.",
+    "crumbs": [
+      "Resources",
+      "Conducting Research",
+      "Working with a team"
+    ]
+  },
+  {
+    "objectID": "training_opxr.html",
+    "href": "training_opxr.html",
+    "title": "Operator XR Virtual Reality",
+    "section": "",
+    "text": "Headset: VIVE Focus 3\nWrist Tracker: VIVE Wrist Tracker\nWands:\nController for VIVE XR/Focus Series (L)\nController for VIVE XR/Focus Series (R)",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Operator XR Virtual Reality"
+    ]
+  },
+  {
+    "objectID": "training_opxr.html#pre-setup",
+    "href": "training_opxr.html#pre-setup",
+    "title": "Operator XR Virtual Reality",
+    "section": "Pre-setup",
+    "text": "Pre-setup\n\nEnsure all equipment is charged.\nEnsure you have extra CO2 canisters.\nTurn on router, headsets, instructor tablet, and laptop.\nMAKE SURE they are all on the same WiFi signal from the router.\nAlways have some various colors of masking tape on hand if the room seems very bland, has few recognizable patterns, reflective floors, furniture, wall decor, etc.",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Operator XR Virtual Reality"
+    ]
+  },
+  {
+    "objectID": "training_opxr.html#map-the-play-space",
+    "href": "training_opxr.html#map-the-play-space",
+    "title": "Operator XR Virtual Reality",
+    "section": "Map the play space",
+    "text": "Map the play space\n\n\n\n\n\n\nTip\n\n\n\nIf you are setting up a NEW play area start here, otherwise, turn everything on and play!\n\n\n\nStep 1: Use the laptop to clear the current tracking map from the headset\n\nOpen VBC on the laptop and connect the headset.\nSelect “Device Settings” and wait for the “Clear Tracking Map” button to be visible. Press it and wait for a success message.\n\n\n\n\n\n\n\nTip\n\n\n\nIt is helpful to have the laptop and headset with you while in the center of the play space BEFORE accepting the success message. It will immediately begin booting up the headset.\n\n\n\nAccept the success message and disconnect the headset. Allow the headset to boot and place you in the lobby. You can remove the headset.\n\n\n\nStep 2: Map the area\n\nRemove the headset and “paint” the room. Slowly walking through your space, let the front of the headset “see” where you are, what’s on the ground, what’s on the walls.\n\n\n\nStep 3: Set the floor height\n\nPut the headset on, navigate to Settings &gt; Boundary &gt; Reset Floor Level &gt; Reset. Follow the steps shown.\n\n\n\nStep 4: Save, export, and import the new map\n\nPower off the headset. Wait a few seconds. Power the headset back on. Plug it back into the laptop.\nIn the laptop VBC program go to device settings and wait for the export button to appear, then select it.\nRename the new map to something applicable.\nFor single-person scenarios, with only one headset being used, you can just jump into scenarios. There is no need to push the map to the headset not being used.\nNow, you can either import the new map to a device group that has been created. Or, you can import the map into the headsets directly.\n\nFor groups: navigate to the group tab, double click your group, and assign your new map with the browse button under map version. Now, make sure your map version numbers all match.\nFor direct upload: navigate to the enroll tab, select your map under import map, and import.",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Operator XR Virtual Reality"
+    ]
+  },
+  {
+    "objectID": "training_opxr.html#turn-on-devices",
+    "href": "training_opxr.html#turn-on-devices",
+    "title": "Operator XR Virtual Reality",
+    "section": "Turn on devices",
+    "text": "Turn on devices\n\nWrist Trackers\n\n\n\n\n\n\nTip\n\n\n\nMost of the time I have only needed one wrist tracker for what we were doing, you can change what the dominant hand is in the OPXR app.\n\n\nPress the L/R button on top of the tracker. If your wrist trackers were paired last time you used the set, they will remain paired. These also sleep and turn off on their own.\n\n\nEquipment\n\n\n\n\n\n\nTip\n\n\n\nMost of the time I only ever used the pistol, so that was the only item I would need to turn on. In this case, just go to the settings in the OPXR app and turn Launch Requirements &gt; Weapons &gt; OFF.\n\n\nTurn on the equipment you will be using. Between use, I turn these items off to save battery.",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Operator XR Virtual Reality"
+    ]
+  },
+  {
+    "objectID": "training_opxr.html#opxr-app",
+    "href": "training_opxr.html#opxr-app",
+    "title": "Operator XR Virtual Reality",
+    "section": "OPXR App",
+    "text": "OPXR App\nIn the app settings you will be able to adjust plenty of things. The most important and frequently used are:\n\nThe physical space: I usually leave this alone set at a large number and artificially measure and adjust the space through the “space offset”. The space offset will allow you to shift and rotate your virtual environment to fit your needs.\nLaunch requirements: This is the setting I mentioned earlier in the tip box. Here, I usually kept the start area requirement enabled, but disabled the weapons. This is because I wasn’t using ALL of the equipment available or currently paired to the headset, which, without turning on each item, would block launching scenarios.\n\n\n\n\n\n\n\nTip\n\n\n\nThere is also a menu for setting up player and NPC health points which proved to be useful. I typically would give players infinite HP so that the scene could continue until I wanted it to end, instead of the player “dying”.\n\n\n\nGetting into the headset\nUse your hands as controllers and make an “o.k.” (👌) hand gesture to select the OP-2 app in the VIVE library. The pinch motion with your pointer and thumb is what makes the selection. You should see a black zone with the tablet name (ALERRT) in a white box. Move the cursor with your gaze into the box, and fill it to select the session.\n\n\nPlayer setup\nWhen a headset joins your session you will see their user pop up in the tablet. They will have a menu available to adjust their player model, equipment, dominant hand, etc. Now, place a wrist tracker onto their dominant hand. I would usually just use one tracker, and adjust hand dominance in the user settings after they joined a session.\n\nCalibrate the pistol to the wrist tracker by using one of the user drop down menus to enable pass-through mode.\nInstruct them to just aim at the wall, keeping the pistol sights aligned and level.\nIn another drop down menu, IF the wrist tracker and gun are on and working with a proper grip, you will be able to select the calibrate button.\nDone. Now turn off pass-through.\n\n\n\nStarting a scenario\nNow, just select a scenario. They are all customizable as well.\n\nInstruct the participant to look around for a colored start area. The scenario description will show you the color and type of start area. They must stand in this box.\nYou have two options: if working with police who have holsters, or people with pockets, tell them to either holster the gun or pocket it. OR, hold onto the pistol for them until the scene starts. After the scene begins, hand them the gun.\n\n\n\n\n\n\n\nImportant\n\n\n\nIf you hold the gun while the scene loads, it will not populate in your hand correctly when the scene begins. If there is an issue immediately after loading with the gun not appearing, just instruct them to re-grip the gun.\n\n\n\nLaunch the scene.\n\n\n\nControlling the scenario\nYou can control NPC actions through a radial menu by selecting characters, this also works for players as well.\nWhen ending the scenario, you will be asked to save the after-action review or not.",
+    "crumbs": [
+      "Resources",
+      "Training Materials",
+      "Operator XR Virtual Reality"
+    ]
+  },
+  {
+    "objectID": "txst_links.html",
+    "href": "txst_links.html",
+    "title": "Helpful Links",
+    "section": "",
+    "text": "Here is where we list several helpful links for Texas State University resources.",
+    "crumbs": [
+      "Resources",
+      "Texas State",
+      "Helpful Links"
+    ]
+  },
+  {
+    "objectID": "txst_links.html#employer-information",
+    "href": "txst_links.html#employer-information",
+    "title": "Helpful Links",
+    "section": "Employer information",
+    "text": "Employer information\n\nInstitutional financial fact sheet (Division of Research)\n\nEIN number\nTax exempt status\n\n\n Download fact sheet \n\n\n\nTax exempt status (IRS letters)\n\n Download IRS Letters",
+    "crumbs": [
+      "Resources",
+      "Texas State",
+      "Helpful Links"
+    ]
+  },
+  {
+    "objectID": "txst_links.html#employee-information",
+    "href": "txst_links.html#employee-information",
+    "title": "Helpful Links",
+    "section": "Employee information",
+    "text": "Employee information\n\nSAP portal\n\nTime sheets\nSuccess Factors (in-service training)\nW2\n\n\n\nTravel Requests\n\n\nConcur\n\n\nParking Services\n\nPurchase parking permits\nPay parking tickets",
+    "crumbs": [
+      "Resources",
+      "Texas State",
+      "Helpful Links"
+    ]
+  },
+  {
+    "objectID": "txst_links.html#research",
+    "href": "txst_links.html#research",
+    "title": "Helpful Links",
+    "section": "Research",
+    "text": "Research\n\nKUALI\n\n\nData Management",
+    "crumbs": [
+      "Resources",
+      "Texas State",
+      "Helpful Links"
+    ]
+  },
+  {
+    "objectID": "index.html#announcements",
+    "href": "index.html#announcements",
+    "title": "Media & News",
+    "section": "Announcements",
+    "text": "Announcements\n#| echo: false\n#| results: asis\n#| cache: false\nsource(\"_render_media.R\")\nrender_section_html(read_media_entries(), \"announcement\")",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  },
+  {
+    "objectID": "index.html#in-the-news",
+    "href": "index.html#in-the-news",
+    "title": "Media & News",
+    "section": "In the News",
+    "text": "In the News\n#| echo: false\n#| results: asis\n#| cache: false\nsource(\"_render_media.R\")\nrender_section_html(read_media_entries(), \"news\")",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  },
+  {
+    "objectID": "index.html#podcasts-interviews",
+    "href": "index.html#podcasts-interviews",
+    "title": "Media & News",
+    "section": "Podcasts & Interviews",
+    "text": "Podcasts & Interviews\n#| echo: false\n#| results: asis\n#| cache: false\nsource(\"_render_media.R\")\nrender_section_html(read_media_entries(), \"podcast\")",
+    "crumbs": [
+      "Home",
+      "Research at the Heart of ALERRT"
+    ]
+  }
+]

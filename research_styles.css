@@ -1,0 +1,253 @@
+/* ================================================================
+   Research Landing Page — page-specific styles
+   ================================================================ */
+
+/* ================================================================
+   RESEARCH MANDATE STATEMENT
+   ================================================================ */
+
+.rr-mandate {
+  border-left: 4px solid var(--rr-gold);
+  padding: 0.7rem 0 0.7rem 1.4rem;
+  margin: 1.25rem 0 2rem;
+  font-size: 1.075rem;
+  line-height: 1.65;
+  color: var(--rr-maroon);
+  font-weight: 600;
+  font-style: normal;
+}
+
+.rr-mandate strong {
+  font-weight: 700;
+  color: var(--rr-maroon);
+}
+
+/* ================================================================
+   RESEARCH AREA CARDS
+   ================================================================ */
+
+.rr-research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0 2.25rem;
+}
+
+.rr-research-card {
+  background: var(--rr-white);
+  border-radius: 6px;
+  border: 1px solid var(--rr-cream-dark);
+  border-left: 3px solid var(--rr-maroon);
+  padding: 1.25rem 1.25rem 1.25rem 1.1rem;
+  box-shadow: var(--rr-shadow-sm);
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.rr-research-card:hover {
+  box-shadow: var(--rr-shadow-md);
+  transform: translateY(-2px);
+}
+
+.rr-research-card-title {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.975rem !important;
+  font-weight: 700 !important;
+  color: var(--rr-maroon) !important;
+  margin: 0 0 0.55rem !important;
+  line-height: 1.2 !important;
+}
+
+.rr-research-card p {
+  font-size: 0.875rem;
+  line-height: 1.65;
+  margin: 0;
+  color: var(--rr-text);
+}
+
+.rr-research-card a {
+  color: var(--rr-maroon);
+}
+
+/* ================================================================
+   RESEARCH INTERESTS / EMERGING AREAS
+   ================================================================ */
+
+.rr-interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0.85rem 0 0.5rem;
+}
+
+.rr-interest-pill {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--rr-maroon);
+  background: var(--rr-cream-mid);
+  border: 1.5px solid var(--rr-cream-dark);
+  border-radius: 20px;
+  padding: 0.28rem 0.85rem;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+
+/* ================================================================
+   COLLECTIVE STATS BANNER
+   ================================================================ */
+
+.rr-collective-stats {
+  display: flex;
+  background: linear-gradient(135deg, #0e0204 0%, #1f0507 35%, #2d0a0c 70%, #501214 100%);
+  border-radius: 10px;
+  border-left: 4px solid var(--rr-gold);
+  padding: 2.25rem 2rem;
+  margin: 1.5rem 0 0.6rem;
+  box-shadow: 0 4px 20px rgba(80, 18, 20, 0.25), 0 1px 4px rgba(80, 18, 20, 0.15);
+}
+
+.rr-collective-stat {
+  flex: 1;
+  text-align: center;
+  padding: 0 1.5rem;
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.rr-collective-stat:last-child {
+  border-right: none;
+}
+
+.rr-collective-stat-num {
+  font-family: 'Outfit', sans-serif;
+  font-size: 2.75rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  margin-bottom: 0.45rem;
+}
+
+.rr-collective-stat-label {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.69rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--rr-gold-light);
+}
+
+.rr-stats-source {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.72rem;
+  color: var(--rr-text-muted);
+  font-style: italic;
+  margin: 0 0 2rem;
+}
+
+/* ================================================================
+   SUB-PAGE NAVIGATION CARDS
+   ================================================================ */
+
+.rr-page-nav-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.rr-page-nav-card {
+  background: var(--rr-white);
+  border-radius: 8px;
+  border: 1px solid var(--rr-cream-dark);
+  border-top: 3px solid var(--rr-gold);
+  padding: 1.4rem 1.5rem 1.25rem;
+  box-shadow: var(--rr-shadow-sm);
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.rr-page-nav-card:hover {
+  box-shadow: var(--rr-shadow-md);
+  transform: translateY(-2px);
+}
+
+.rr-page-nav-icon {
+  font-size: 1.35rem;
+  color: var(--rr-maroon);
+  margin-bottom: 0.6rem;
+  opacity: 0.75;
+}
+
+.rr-page-nav-title {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--rr-maroon);
+  margin: 0 0 0.4rem;
+}
+
+.rr-page-nav-desc {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.85rem;
+  color: var(--rr-text-muted);
+  line-height: 1.5;
+  margin: 0 0 1rem;
+  flex: 1;
+}
+
+.rr-page-nav-link {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--rr-maroon) !important;
+  text-decoration: none !important;
+  transition: color 0.15s;
+}
+
+.rr-page-nav-link:hover {
+  color: var(--rr-gold) !important;
+}
+
+/* ================================================================
+   RESPONSIVE
+   ================================================================ */
+
+@media (max-width: 991.98px) {
+  .rr-research-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 767.98px) {
+  .rr-research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .rr-page-nav-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .rr-collective-stats {
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1.75rem 1.5rem;
+  }
+
+  .rr-collective-stat {
+    border-right: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 0 0 1.5rem;
+  }
+
+  .rr-collective-stat:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .rr-collective-stat-num {
+    font-size: 2.25rem;
+  }
+}
